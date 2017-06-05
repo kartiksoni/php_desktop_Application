@@ -1,0 +1,1747 @@
+- 16:42:40.156 INFO: --------------------------------------------------------
+- 16:42:40.181 INFO: Started application
+- 16:42:40.181 INFO: Logging to: Z:\home\agc-hinal\Desktop\kartik_d\debug.log
+- 16:42:40.181 INFO: Log level = DEBUG4
+- 16:42:40.181 INFO: Starting Mongoose 3.9c web server
+- 16:42:40.182 INFO: WWW directory: Z:\home\agc-hinal\Desktop\kartik_d\www
+- 16:42:40.182 INFO: Index files: index.html,index.php
+- 16:42:40.182 INFO: CGI interpreter: Z:\home\agc-hinal\Desktop\kartik_d\php\php-cgi.exe
+- 16:42:40.182 INFO: CGI pattern: **.php$
+- 16:42:40.182 INFO: Hide files patterns: 
+- 16:42:40.182 INFO: CGI environment variables set: TMP=C:\users\agc-hinal\Temp\,TEMP=C:\users\agc-hinal\Temp\,TMPDIR=C:\users\agc-hinal\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 16:42:40.240 INFO: Web server url: http://127.0.0.1:46526/
+- 16:42:40.241 INFO: remote_debugging_port = 63490
+- 16:42:40.241 DEBUG: Command line string for the browser process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --remote-debugging-port=63490
+- 16:42:40.359 DEBUG: App::OnContextInitialized()
+- 16:42:40.359 DEBUG: Window max width/height = 1278/742
+- 16:42:40.359 DEBUG: GetBrowserWindow(): not found, hwnd = 327732
+- 16:42:40.359 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 16:42:40.360 DEBUG: BrowserWindow::CreateBrowserControl()
+- 16:42:40.360 DEBUG: StoreBrowserWindow(): hwnd = 327732
+- 16:42:40.373 DEBUG: ClientHandler::OnAfterCreated()
+- 16:42:40.373 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 16:42:40.391 DEBUG: OnLoadingStateChange: loading=1, url=
+- 16:42:42.001 DEBUG: Command line string for the renderer process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel="62.0.1321658824\101943656" /prefetch:673131151
+- 16:42:44.045 DEBUG: OnBrowserCreated()
+- 16:42:46.865 INFO: GET 200 /style.css
+- 16:42:46.218 DEBUG: OnContextCreated()
+- 16:42:46.904 INFO: GET 200 /
+- 16:42:46.907 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:46526/
+- 16:42:48.043 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:46526/
+- 16:42:48.505 DEBUG: OnContextCreated()
+- 16:42:48.161 INFO: GET 200 /blenc_encode.php
+- 16:42:48.166 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:46526/blenc_encode.php
+- 16:42:49.740 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:46526/blenc_encode.php
+- 16:42:49.098 DEBUG: OnContextCreated()
+- 16:42:49.757 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:46526/
+- 16:42:51.131 DEBUG: WM_DESTROY
+- 16:42:51.132 DEBUG: RemoveBrowserWindow(): hwnd = 327732
+- 16:42:51.133 INFO: Stopping Mongoose web server
+- 16:42:51.133 DEBUG: Mongoose webserver stopped immediately
+- 16:42:51.136 DEBUG: OnBeforeClose() hwnd=196766
+- 16:42:51.137 DEBUG: RemoveBrowserWindow(): hwnd = 196766
+- 16:42:51.137 DEBUG: GetBrowserWindow(): not found, hwnd = 196766
+- 16:42:51.137 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 16:42:51.138 DEBUG: Calling CefQuitMessageLoop()
+- 16:42:51.160 INFO: Ended application
+- 16:42:51.160 INFO: --------------------------------------------------------
+- 16:43:48.088 INFO: --------------------------------------------------------
+- 16:43:48.089 INFO: Started application
+- 16:43:48.089 INFO: Logging to: Z:\home\agc-hinal\Desktop\kartik_d\debug.log
+- 16:43:48.089 INFO: Log level = DEBUG4
+- 16:43:48.089 INFO: Starting Mongoose 3.9c web server
+- 16:43:48.090 INFO: WWW directory: Z:\home\agc-hinal\Desktop\kartik_d\www
+- 16:43:48.090 INFO: Index files: index.html,index.php
+- 16:43:48.090 INFO: CGI interpreter: Z:\home\agc-hinal\Desktop\kartik_d\php\php-cgi.exe
+- 16:43:48.090 INFO: CGI pattern: **.php$
+- 16:43:48.091 INFO: Hide files patterns: 
+- 16:43:48.092 INFO: CGI environment variables set: TMP=C:\users\agc-hinal\Temp\,TEMP=C:\users\agc-hinal\Temp\,TMPDIR=C:\users\agc-hinal\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 16:43:48.102 INFO: Web server url: http://127.0.0.1:49706/
+- 16:43:48.103 INFO: remote_debugging_port = 56334
+- 16:43:48.104 DEBUG: Command line string for the browser process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --remote-debugging-port=56334
+- 16:43:49.222 DEBUG: App::OnContextInitialized()
+- 16:43:49.222 DEBUG: Window max width/height = 1278/742
+- 16:43:49.222 DEBUG: GetBrowserWindow(): not found, hwnd = 327996
+- 16:43:49.222 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 16:43:49.224 DEBUG: BrowserWindow::CreateBrowserControl()
+- 16:43:49.224 DEBUG: StoreBrowserWindow(): hwnd = 327996
+- 16:43:49.251 DEBUG: ClientHandler::OnAfterCreated()
+- 16:43:49.251 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 16:43:49.261 DEBUG: OnLoadingStateChange: loading=1, url=
+- 16:43:49.001 DEBUG: Command line string for the renderer process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel="143.0.7802584\894212711" /prefetch:673131151
+- 16:43:49.378 DEBUG: OnBrowserCreated()
+- 16:43:51.946 INFO: GET 200 /
+- 16:43:51.952 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49706/
+- 16:43:54.054 DEBUG: WM_DESTROY
+- 16:43:54.054 DEBUG: RemoveBrowserWindow(): hwnd = 327996
+- 16:43:54.054 INFO: Stopping Mongoose web server
+- 16:43:54.054 DEBUG: Mongoose webserver stopped immediately
+- 16:43:54.059 DEBUG: OnBeforeClose() hwnd=393256
+- 16:43:54.059 DEBUG: RemoveBrowserWindow(): hwnd = 393256
+- 16:43:54.060 DEBUG: GetBrowserWindow(): not found, hwnd = 393256
+- 16:43:54.060 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 16:43:54.060 DEBUG: Calling CefQuitMessageLoop()
+- 16:43:54.084 INFO: Ended application
+- 16:43:54.084 INFO: --------------------------------------------------------
+- 16:45:27.000 INFO: --------------------------------------------------------
+- 16:45:27.000 INFO: Started application
+- 16:45:27.000 INFO: Logging to: Z:\home\agc-hinal\Desktop\kartik_d\debug.log
+- 16:45:27.000 INFO: Log level = DEBUG4
+- 16:45:27.001 INFO: Starting Mongoose 3.9c web server
+- 16:45:27.001 INFO: WWW directory: Z:\home\agc-hinal\Desktop\kartik_d\www
+- 16:45:27.001 INFO: Index files: index.html,index.php
+- 16:45:27.001 INFO: CGI interpreter: Z:\home\agc-hinal\Desktop\kartik_d\php\php-cgi.exe
+- 16:45:27.001 INFO: CGI pattern: **.php$
+- 16:45:27.001 INFO: Hide files patterns: 
+- 16:45:27.001 INFO: CGI environment variables set: TMP=C:\users\agc-hinal\Temp\,TEMP=C:\users\agc-hinal\Temp\,TMPDIR=C:\users\agc-hinal\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 16:45:27.004 INFO: Web server url: http://127.0.0.1:52896/
+- 16:45:27.004 INFO: remote_debugging_port = 62341
+- 16:45:27.005 DEBUG: Command line string for the browser process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --remote-debugging-port=62341
+- 16:45:27.033 DEBUG: App::OnContextInitialized()
+- 16:45:27.033 DEBUG: Window max width/height = 1278/742
+- 16:45:27.033 DEBUG: GetBrowserWindow(): not found, hwnd = 524440
+- 16:45:27.033 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 16:45:27.034 DEBUG: BrowserWindow::CreateBrowserControl()
+- 16:45:27.034 DEBUG: StoreBrowserWindow(): hwnd = 524440
+- 16:45:27.062 DEBUG: ClientHandler::OnAfterCreated()
+- 16:45:27.062 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 16:45:27.072 DEBUG: OnLoadingStateChange: loading=1, url=
+- 16:45:27.001 DEBUG: Command line string for the renderer process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel="93.0.236407201\411230753" /prefetch:673131151
+- 16:45:28.345 DEBUG: OnBrowserCreated()
+- 16:45:29.151 INFO: GET 200 /
+- 16:45:29.156 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52896/
+- 16:45:35.991 DEBUG: WM_DESTROY
+- 16:45:35.991 DEBUG: RemoveBrowserWindow(): hwnd = 524440
+- 16:45:35.992 INFO: Stopping Mongoose web server
+- 16:45:35.992 DEBUG: Mongoose webserver stopped immediately
+- 16:45:35.995 DEBUG: OnBeforeClose() hwnd=458796
+- 16:45:35.995 DEBUG: RemoveBrowserWindow(): hwnd = 458796
+- 16:45:35.995 DEBUG: GetBrowserWindow(): not found, hwnd = 458796
+- 16:45:35.996 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 16:45:35.996 DEBUG: Calling CefQuitMessageLoop()
+- 16:53:43.000 INFO: --------------------------------------------------------
+- 16:53:43.000 INFO: Started application
+- 16:53:43.000 INFO: Logging to: Z:\home\agc-hinal\Desktop\kartik_d\debug.log
+- 16:53:43.000 INFO: Log level = DEBUG4
+- 16:53:43.001 INFO: Starting Mongoose 3.9c web server
+- 16:53:43.001 INFO: WWW directory: Z:\home\agc-hinal\Desktop\kartik_d\www
+- 16:53:43.001 INFO: Index files: index.html,index.php
+- 16:53:43.001 INFO: CGI interpreter: Z:\home\agc-hinal\Desktop\kartik_d\php\php-cgi.exe
+- 16:53:43.001 INFO: CGI pattern: **.php$
+- 16:53:43.001 INFO: Hide files patterns: 
+- 16:53:43.001 INFO: CGI environment variables set: TMP=C:\users\agc-hinal\Temp\,TEMP=C:\users\agc-hinal\Temp\,TMPDIR=C:\users\agc-hinal\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 16:53:43.004 INFO: Web server url: http://127.0.0.1:34817/
+- 16:53:43.005 INFO: remote_debugging_port = 49711
+- 16:53:43.005 DEBUG: Command line string for the browser process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --remote-debugging-port=49711
+- 16:53:43.031 DEBUG: App::OnContextInitialized()
+- 16:53:43.031 DEBUG: Window max width/height = 1278/742
+- 16:53:43.031 DEBUG: GetBrowserWindow(): not found, hwnd = 1179758
+- 16:53:43.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 16:53:43.032 DEBUG: BrowserWindow::CreateBrowserControl()
+- 16:53:43.032 DEBUG: StoreBrowserWindow(): hwnd = 1179758
+- 16:53:43.054 DEBUG: ClientHandler::OnAfterCreated()
+- 16:53:43.054 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 16:53:43.064 DEBUG: OnLoadingStateChange: loading=1, url=
+- 16:53:43.001 DEBUG: Command line string for the renderer process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel="124.0.1717641236\465227144" /prefetch:673131151
+- 16:53:44.346 DEBUG: OnBrowserCreated()
+- 16:53:44.622 INFO: GET 200 /
+- 16:53:44.624 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:34817/
+- 16:53:46.002 DEBUG: WM_DESTROY
+- 16:53:46.002 DEBUG: RemoveBrowserWindow(): hwnd = 1179758
+- 16:53:46.003 INFO: Stopping Mongoose web server
+- 16:53:46.003 DEBUG: Mongoose webserver stopped immediately
+- 16:53:46.004 DEBUG: OnBeforeClose() hwnd=459254
+- 16:53:46.004 DEBUG: RemoveBrowserWindow(): hwnd = 459254
+- 16:53:46.004 DEBUG: GetBrowserWindow(): not found, hwnd = 459254
+- 16:53:46.004 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 16:53:46.004 DEBUG: Calling CefQuitMessageLoop()
+- 16:53:46.019 INFO: Ended application
+- 16:53:46.019 INFO: --------------------------------------------------------
+- 16:54:05.001 INFO: --------------------------------------------------------
+- 16:54:05.001 INFO: Started application
+- 16:54:05.001 INFO: Logging to: Z:\home\agc-hinal\Desktop\kartik_d\debug.log
+- 16:54:05.001 INFO: Log level = DEBUG4
+- 16:54:05.001 INFO: Starting Mongoose 3.9c web server
+- 16:54:05.001 INFO: WWW directory: Z:\home\agc-hinal\Desktop\kartik_d\www
+- 16:54:05.001 INFO: Index files: index.html,index.php
+- 16:54:05.001 INFO: CGI interpreter: Z:\home\agc-hinal\Desktop\kartik_d\php\php-cgi.exe
+- 16:54:05.001 INFO: CGI pattern: **.php$
+- 16:54:05.001 INFO: Hide files patterns: 
+- 16:54:05.002 INFO: CGI environment variables set: TMP=C:\users\agc-hinal\Temp\,TEMP=C:\users\agc-hinal\Temp\,TMPDIR=C:\users\agc-hinal\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 16:54:05.005 INFO: Web server url: http://127.0.0.1:49220/
+- 16:54:05.005 INFO: remote_debugging_port = 59763
+- 16:54:05.005 DEBUG: Command line string for the browser process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --remote-debugging-port=59763
+- 16:54:05.032 DEBUG: App::OnContextInitialized()
+- 16:54:05.032 DEBUG: Window max width/height = 1278/742
+- 16:54:05.032 DEBUG: GetBrowserWindow(): not found, hwnd = 590238
+- 16:54:05.032 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 16:54:05.033 DEBUG: BrowserWindow::CreateBrowserControl()
+- 16:54:05.033 DEBUG: StoreBrowserWindow(): hwnd = 590238
+- 16:54:05.073 DEBUG: ClientHandler::OnAfterCreated()
+- 16:54:05.073 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 16:54:05.085 DEBUG: OnLoadingStateChange: loading=1, url=
+- 16:54:05.000 DEBUG: Command line string for the renderer process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel="43.0.566051292\35593094" /prefetch:673131151
+- 16:54:05.305 DEBUG: OnBrowserCreated()
+- 16:54:05.612 INFO: GET 200 /
+- 16:54:05.657 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49220/
+- 16:54:22.922 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49220/
+- 16:54:23.037 INFO: GET 200 /
+- 16:54:23.041 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49220/
+- 16:55:41.851 DEBUG: WM_DESTROY
+- 16:55:41.851 DEBUG: RemoveBrowserWindow(): hwnd = 590238
+- 16:55:41.852 INFO: Stopping Mongoose web server
+- 16:55:41.852 DEBUG: Mongoose webserver stopped immediately
+- 16:55:41.853 DEBUG: OnBeforeClose() hwnd=590234
+- 16:55:41.853 DEBUG: RemoveBrowserWindow(): hwnd = 590234
+- 16:55:41.853 DEBUG: GetBrowserWindow(): not found, hwnd = 590234
+- 16:55:41.853 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 16:55:41.853 DEBUG: Calling CefQuitMessageLoop()
+- 16:55:41.679 DEBUG: OnBrowserDestroyed()
+- 16:55:51.001 INFO: --------------------------------------------------------
+- 16:55:51.001 INFO: Started application
+- 16:55:51.001 INFO: Logging to: Z:\home\agc-hinal\Desktop\kartik_d\debug.log
+- 16:55:51.001 INFO: Log level = DEBUG4
+- 16:55:51.001 INFO: Starting Mongoose 3.9c web server
+- 16:55:51.001 INFO: WWW directory: Z:\home\agc-hinal\Desktop\kartik_d\www
+- 16:55:51.001 INFO: Index files: index.html,index.php
+- 16:55:51.002 INFO: CGI interpreter: Z:\home\agc-hinal\Desktop\kartik_d\php\php-cgi.exe
+- 16:55:51.002 INFO: CGI pattern: **.php$
+- 16:55:51.002 INFO: Hide files patterns: 
+- 16:55:51.002 INFO: CGI environment variables set: TMP=C:\users\agc-hinal\Temp\,TEMP=C:\users\agc-hinal\Temp\,TMPDIR=C:\users\agc-hinal\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 16:55:51.005 INFO: Web server url: http://127.0.0.1:33808/
+- 16:55:51.006 INFO: remote_debugging_port = 62970
+- 16:55:51.006 DEBUG: Command line string for the browser process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --remote-debugging-port=62970
+- 16:55:51.038 DEBUG: App::OnContextInitialized()
+- 16:55:51.038 DEBUG: Window max width/height = 1278/742
+- 16:55:51.039 DEBUG: GetBrowserWindow(): not found, hwnd = 459122
+- 16:55:51.039 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 16:55:51.039 DEBUG: BrowserWindow::CreateBrowserControl()
+- 16:55:51.039 DEBUG: StoreBrowserWindow(): hwnd = 459122
+- 16:55:51.058 DEBUG: ClientHandler::OnAfterCreated()
+- 16:55:51.058 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 16:55:51.067 DEBUG: OnLoadingStateChange: loading=1, url=
+- 16:55:51.001 DEBUG: Command line string for the renderer process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel="138.0.1739812273\1930429574" /prefetch:673131151
+- 16:55:52.332 DEBUG: OnBrowserCreated()
+- 16:55:52.675 INFO: GET 200 /
+- 16:55:52.689 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:33808/
+- 16:56:14.852 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:33808/
+- 16:56:14.972 INFO: GET 200 /
+- 16:56:14.973 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:33808/
+- 16:57:44.000 INFO: --------------------------------------------------------
+- 16:57:44.000 INFO: Started application
+- 16:57:44.001 INFO: Logging to: Z:\home\agc-hinal\Desktop\kartik_d\debug.log
+- 16:57:44.001 INFO: Log level = DEBUG4
+- 16:57:44.001 INFO: Starting Mongoose 3.9c web server
+- 16:57:44.001 INFO: WWW directory: Z:\home\agc-hinal\Desktop\kartik_d\www
+- 16:57:44.001 INFO: Index files: index.html,index.php
+- 16:57:44.001 INFO: CGI interpreter: Z:\home\agc-hinal\Desktop\kartik_d\php\php-cgi.exe
+- 16:57:44.001 INFO: CGI pattern: **.php$
+- 16:57:44.001 INFO: Hide files patterns: 
+- 16:57:44.002 INFO: CGI environment variables set: TMP=C:\users\agc-hinal\Temp\,TEMP=C:\users\agc-hinal\Temp\,TMPDIR=C:\users\agc-hinal\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 16:57:44.004 INFO: Web server url: http://127.0.0.1:42491/
+- 16:57:44.005 INFO: remote_debugging_port = 49970
+- 16:57:44.005 DEBUG: Command line string for the browser process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --remote-debugging-port=49970
+- 16:57:44.036 DEBUG: App::OnContextInitialized()
+- 16:57:44.036 DEBUG: Window max width/height = 1278/742
+- 16:57:44.036 DEBUG: GetBrowserWindow(): not found, hwnd = 393482
+- 16:57:44.036 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 16:57:44.037 DEBUG: BrowserWindow::CreateBrowserControl()
+- 16:57:44.037 DEBUG: StoreBrowserWindow(): hwnd = 393482
+- 16:57:44.054 DEBUG: ClientHandler::OnAfterCreated()
+- 16:57:44.055 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 16:57:44.064 DEBUG: OnLoadingStateChange: loading=1, url=
+- 16:57:44.002 DEBUG: Command line string for the renderer process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel="66.0.1442888885\821640085" /prefetch:673131151
+- 16:57:45.350 DEBUG: OnBrowserCreated()
+- 16:57:45.749 INFO: GET 200 /
+- 16:57:45.752 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:42491/
+- 16:57:46.398 DEBUG: WM_DESTROY
+- 16:57:46.398 DEBUG: RemoveBrowserWindow(): hwnd = 393482
+- 16:57:46.399 INFO: Stopping Mongoose web server
+- 16:57:46.399 DEBUG: Mongoose webserver stopped immediately
+- 16:57:46.405 DEBUG: OnBeforeClose() hwnd=655566
+- 16:57:46.405 DEBUG: RemoveBrowserWindow(): hwnd = 655566
+- 16:57:46.406 DEBUG: GetBrowserWindow(): not found, hwnd = 655566
+- 16:57:46.406 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 16:57:46.406 DEBUG: Calling CefQuitMessageLoop()
+- 16:57:46.198 DEBUG: OnBrowserDestroyed()
+- 16:57:46.425 INFO: Ended application
+- 16:57:46.425 INFO: --------------------------------------------------------
+- 17:03:58.001 INFO: --------------------------------------------------------
+- 17:03:58.001 INFO: Started application
+- 17:03:58.001 INFO: Logging to: Z:\home\agc-hinal\Desktop\kartik_d\debug.log
+- 17:03:58.001 INFO: Log level = DEBUG4
+- 17:03:58.001 INFO: Starting Mongoose 3.9c web server
+- 17:03:58.001 INFO: WWW directory: Z:\home\agc-hinal\Desktop\kartik_d\www
+- 17:03:58.001 INFO: Index files: index.html,index.php
+- 17:03:58.002 INFO: CGI interpreter: Z:\home\agc-hinal\Desktop\kartik_d\php\php-cgi.exe
+- 17:03:58.002 INFO: CGI pattern: **.php$
+- 17:03:58.002 INFO: Hide files patterns: 
+- 17:03:58.002 INFO: CGI environment variables set: TMP=C:\users\agc-hinal\Temp\,TEMP=C:\users\agc-hinal\Temp\,TMPDIR=C:\users\agc-hinal\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 17:03:58.005 INFO: Web server url: http://127.0.0.1:55599/
+- 17:03:58.005 INFO: remote_debugging_port = 61199
+- 17:03:58.005 DEBUG: Command line string for the browser process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --remote-debugging-port=61199
+- 17:03:58.052 DEBUG: App::OnContextInitialized()
+- 17:03:58.052 DEBUG: Window max width/height = 1278/742
+- 17:03:58.052 DEBUG: GetBrowserWindow(): not found, hwnd = 1048780
+- 17:03:58.052 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 17:03:58.053 DEBUG: BrowserWindow::CreateBrowserControl()
+- 17:03:58.053 DEBUG: StoreBrowserWindow(): hwnd = 1048780
+- 17:03:58.072 DEBUG: ClientHandler::OnAfterCreated()
+- 17:03:58.072 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 17:03:58.086 DEBUG: OnLoadingStateChange: loading=1, url=
+- 17:03:58.001 DEBUG: Command line string for the renderer process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel="236.0.1836834283\1001007372" /prefetch:673131151
+- 17:03:59.349 DEBUG: OnBrowserCreated()
+- 17:03:59.255 INFO: GET 200 /style.css
+- 17:03:59.257 INFO: GET 200 /
+- 17:03:59.069 DEBUG: OnContextCreated()
+- 17:03:59.277 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55599/
+- 17:04:04.999 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55599/
+- 17:04:04.812 DEBUG: OnContextCreated()
+- 17:04:04.012 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55599/style.css
+- 17:04:10.001 INFO: --------------------------------------------------------
+- 17:04:10.001 INFO: Started application
+- 17:04:10.001 INFO: Logging to: Z:\home\agc-hinal\Desktop\kartik_d\debug.log
+- 17:04:10.001 INFO: Log level = DEBUG4
+- 17:04:10.001 INFO: Starting Mongoose 3.9c web server
+- 17:04:10.002 INFO: WWW directory: Z:\home\agc-hinal\Desktop\kartik_d\www
+- 17:04:10.002 INFO: Index files: index.html,index.php
+- 17:04:10.002 INFO: CGI interpreter: Z:\home\agc-hinal\Desktop\kartik_d\php\php-cgi.exe
+- 17:04:10.002 INFO: CGI pattern: **.php$
+- 17:04:10.002 INFO: Hide files patterns: 
+- 17:04:10.002 INFO: CGI environment variables set: TMP=C:\users\agc-hinal\Temp\,TEMP=C:\users\agc-hinal\Temp\,TMPDIR=C:\users\agc-hinal\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 17:04:10.005 INFO: Web server url: http://127.0.0.1:56511/
+- 17:04:10.006 INFO: remote_debugging_port = 56022
+- 17:04:10.006 DEBUG: Command line string for the browser process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --remote-debugging-port=56022
+- 17:04:10.035 DEBUG: App::OnContextInitialized()
+- 17:04:10.036 DEBUG: Window max width/height = 1278/742
+- 17:04:10.036 DEBUG: GetBrowserWindow(): not found, hwnd = 786550
+- 17:04:10.036 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 17:04:10.036 DEBUG: BrowserWindow::CreateBrowserControl()
+- 17:04:10.036 DEBUG: StoreBrowserWindow(): hwnd = 786550
+- 17:04:10.060 DEBUG: ClientHandler::OnAfterCreated()
+- 17:04:10.060 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 17:04:10.067 DEBUG: OnLoadingStateChange: loading=1, url=
+- 17:04:11.001 DEBUG: Command line string for the renderer process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel="230.0.990829620\1188712108" /prefetch:673131151
+- 17:04:11.332 DEBUG: OnBrowserCreated()
+- 17:04:11.189 INFO: GET 200 /style.css
+- 17:04:11.196 INFO: GET 200 /
+- 17:04:11.584 DEBUG: OnContextCreated()
+- 17:04:11.211 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56511/
+- 17:04:15.936 DEBUG: WM_DESTROY
+- 17:04:15.936 DEBUG: RemoveBrowserWindow(): hwnd = 1048780
+- 17:04:15.936 INFO: Stopping Mongoose web server
+- 17:04:15.936 DEBUG: Mongoose webserver stopped immediately
+- 17:04:15.939 DEBUG: OnBeforeClose() hwnd=1179962
+- 17:04:15.939 DEBUG: RemoveBrowserWindow(): hwnd = 1179962
+- 17:04:15.939 DEBUG: GetBrowserWindow(): not found, hwnd = 1179962
+- 17:04:15.939 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 17:04:15.940 DEBUG: Calling CefQuitMessageLoop()
+- 17:04:20.993 DEBUG: WM_DESTROY
+- 17:04:20.993 DEBUG: RemoveBrowserWindow(): hwnd = 459122
+- 17:04:20.993 INFO: Stopping Mongoose web server
+- 17:04:20.994 DEBUG: Mongoose webserver stopped immediately
+- 17:04:20.996 DEBUG: OnBeforeClose() hwnd=1048950
+- 17:04:20.996 DEBUG: RemoveBrowserWindow(): hwnd = 1048950
+- 17:04:20.996 DEBUG: GetBrowserWindow(): not found, hwnd = 1048950
+- 17:04:20.996 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 17:04:20.996 DEBUG: Calling CefQuitMessageLoop()
+- 17:04:20.796 DEBUG: OnBrowserDestroyed()
+- 17:04:28.996 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56511/
+- 17:04:29.955 DEBUG: OnLoadError, errorCode=-3, failedUrl=https://github.com/cztomczak/phpdesktop
+- 17:04:29.955 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56511/
+- 17:06:02.907 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56511/
+- 17:06:02.404 DEBUG: OnContextCreated()
+- 17:06:02.023 INFO: GET 200 /javascript-api.php
+- 17:06:02.031 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56511/javascript-api.php
+- 17:06:10.253 DEBUG: browser[1] OnProcessMessageReceived: ToggleFullscreen
+- 17:06:11.628 DEBUG: browser[1] OnProcessMessageReceived: ToggleFullscreen
+- 17:06:18.628 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56511/javascript-api.php
+- 17:06:18.138 DEBUG: OnContextCreated()
+- 17:06:18.761 INFO: GET 200 /index.php
+- 17:06:18.766 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56511/index.php
+- 17:07:19.954 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56511/index.php
+- 17:07:20.293 INFO: GET 200 /sqlite.php
+- 17:07:20.680 DEBUG: OnContextCreated()
+- 17:07:20.303 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56511/sqlite.php
+- 17:07:34.738 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56511/sqlite.php
+- 17:07:34.250 DEBUG: OnContextCreated()
+- 17:07:34.866 INFO: GET 200 /sqlite.php
+- 17:07:34.871 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56511/sqlite.php
+- 17:07:36.352 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56511/sqlite.php
+- 17:07:36.861 DEBUG: OnContextCreated()
+- 17:07:36.479 INFO: GET 200 /sqlite.php
+- 17:07:36.485 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56511/sqlite.php
+- 17:07:36.780 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56511/sqlite.php
+- 17:07:36.270 DEBUG: OnContextCreated()
+- 17:07:36.889 INFO: GET 200 /sqlite.php
+- 17:07:36.892 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56511/sqlite.php
+- 17:07:36.172 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56511/sqlite.php
+- 17:07:37.688 DEBUG: OnContextCreated()
+- 17:07:37.307 INFO: GET 200 /sqlite.php
+- 17:07:37.310 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56511/sqlite.php
+- 17:07:37.586 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56511/sqlite.php
+- 17:07:37.077 DEBUG: OnContextCreated()
+- 17:07:37.696 INFO: GET 200 /sqlite.php
+- 17:07:37.699 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56511/sqlite.php
+- 17:07:37.796 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56511/sqlite.php
+- 17:07:37.285 DEBUG: OnContextCreated()
+- 17:07:37.902 INFO: GET 200 /sqlite.php
+- 17:07:37.906 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56511/sqlite.php
+- 17:17:18.122 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56511/sqlite.php
+- 17:17:19.961 DEBUG: OnContextCreated()
+- 17:17:19.576 INFO: GET 200 /index.php
+- 17:17:19.581 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56511/index.php
+- 17:17:35.020 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56511/index.php
+- 17:17:35.533 DEBUG: OnContextCreated()
+- 17:17:35.149 INFO: GET 200 /upload.php
+- 17:17:35.155 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56511/upload.php
+- 17:17:40.601 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56511/upload.php
+- 17:17:40.128 DEBUG: OnContextCreated()
+- 17:17:40.756 INFO: POST 200 /upload.php
+- 17:17:40.760 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56511/upload.php
+- 17:17:50.430 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56511/upload.php
+- 17:17:50.928 DEBUG: OnContextCreated()
+- 17:17:50.554 INFO: GET 200 /index.php
+- 17:17:50.558 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56511/index.php
+- 17:17:53.276 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56511/index.php
+- 17:17:53.769 DEBUG: OnContextCreated()
+- 17:17:53.386 INFO: GET 200 /download.php
+- 17:17:53.389 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56511/download.php
+- 17:17:53.213 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56511/download.php
+- 17:17:54.334 INFO: GET 200 /download.php?getit=1
+- 17:17:54.368 INFO: About to download a file: phpdesktop.txt
+- 17:17:54.369 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:56511/download.php?getit=1
+- 17:17:54.369 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56511/download.php
+- 17:17:56.882 INFO: Download was cancelled
+- 17:17:57.053 DEBUG: WM_DESTROY
+- 17:17:57.054 DEBUG: RemoveBrowserWindow(): hwnd = 786550
+- 17:17:57.054 INFO: Stopping Mongoose web server
+- 17:17:57.054 DEBUG: Mongoose webserver stopped immediately
+- 17:17:57.056 DEBUG: OnBeforeClose() hwnd=327920
+- 17:17:57.056 DEBUG: RemoveBrowserWindow(): hwnd = 327920
+- 17:17:57.057 DEBUG: GetBrowserWindow(): not found, hwnd = 327920
+- 17:17:57.057 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 17:17:57.057 DEBUG: Calling CefQuitMessageLoop()
+- 17:19:24.001 INFO: --------------------------------------------------------
+- 17:19:24.001 INFO: Started application
+- 17:19:24.001 INFO: Logging to: Z:\home\agc-hinal\Desktop\kartik_d\debug.log
+- 17:19:24.001 INFO: Log level = DEBUG4
+- 17:19:24.002 INFO: Starting Mongoose 3.9c web server
+- 17:19:24.002 INFO: WWW directory: Z:\home\agc-hinal\Desktop\kartik_d\www
+- 17:19:24.002 INFO: Index files: index.html,index.php
+- 17:19:24.002 INFO: CGI interpreter: Z:\home\agc-hinal\Desktop\kartik_d\php\php-cgi.exe
+- 17:19:24.002 INFO: CGI pattern: **.php$
+- 17:19:24.002 INFO: Hide files patterns: 
+- 17:19:24.003 INFO: CGI environment variables set: TMP=C:\users\agc-hinal\Temp\,TEMP=C:\users\agc-hinal\Temp\,TMPDIR=C:\users\agc-hinal\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 17:19:24.007 INFO: Web server url: http://127.0.0.1:50321/
+- 17:19:24.007 INFO: remote_debugging_port = 63741
+- 17:19:24.007 DEBUG: Command line string for the browser process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --remote-debugging-port=63741
+- 17:19:24.035 DEBUG: App::OnContextInitialized()
+- 17:19:24.035 DEBUG: Window max width/height = 1278/742
+- 17:19:24.035 DEBUG: GetBrowserWindow(): not found, hwnd = 852340
+- 17:19:24.035 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 17:19:24.036 DEBUG: BrowserWindow::CreateBrowserControl()
+- 17:19:24.036 DEBUG: StoreBrowserWindow(): hwnd = 852340
+- 17:19:24.046 DEBUG: ClientHandler::OnAfterCreated()
+- 17:19:24.046 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 17:19:24.060 DEBUG: OnLoadingStateChange: loading=1, url=
+- 17:19:24.001 DEBUG: Command line string for the renderer process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel="279.0.1513629460\744502178" /prefetch:673131151
+- 17:19:24.345 DEBUG: OnBrowserCreated()
+- 17:19:25.963 INFO: GET 200 /style.css
+- 17:19:25.965 INFO: GET 200 /
+- 17:19:25.784 DEBUG: OnContextCreated()
+- 17:19:25.984 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50321/
+- 17:19:27.934 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50321/
+- 17:19:27.865 DEBUG: OnContextCreated()
+- 17:19:27.062 INFO: GET 200 /popup.php
+- 17:19:27.063 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50321/popup.php
+- 17:19:29.803 DEBUG: ClientHandler::OnBeforePopup()
+- 17:19:29.804 DEBUG: Window max width/height = 1278/742
+- 17:19:29.619 DEBUG: OnBrowserCreated()
+- 17:19:29.633 DEBUG: OnContextCreated()
+- 17:19:29.821 DEBUG: ClientHandler::OnAfterCreated()
+- 17:19:29.821 DEBUG: GetBrowserWindow(): not found, hwnd = 1114380
+- 17:19:29.827 DEBUG: BrowserWindow::BrowserWindow() created for Popup
+- 17:19:29.827 DEBUG: StoreBrowserWindow(): hwnd = 1114380
+- 17:19:29.829 DEBUG: Centering popup window relative to its parent
+- 17:19:29.848 DEBUG: OnLoadingStateChange: loading=1, url=
+- 17:19:29.973 INFO: GET 200 /index.php
+- 17:19:29.975 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50321/index.php
+- 17:19:30.595 DEBUG: OnBeforeClose() hwnd=1114380
+- 17:19:30.595 DEBUG: RemoveBrowserWindow(): hwnd = 1114380
+- 17:19:30.411 DEBUG: OnBrowserDestroyed()
+- 17:19:31.346 DEBUG: ClientHandler::OnBeforePopup()
+- 17:19:31.346 INFO: Setting default size for a popup window 800/600
+- 17:19:31.346 DEBUG: Window max width/height = 1278/742
+- 17:19:31.160 DEBUG: OnBrowserCreated()
+- 17:19:31.362 DEBUG: ClientHandler::OnAfterCreated()
+- 17:19:31.362 DEBUG: GetBrowserWindow(): not found, hwnd = 1179916
+- 17:19:31.362 DEBUG: BrowserWindow::BrowserWindow() created for Popup
+- 17:19:31.362 DEBUG: StoreBrowserWindow(): hwnd = 1179916
+- 17:19:31.365 DEBUG: Centering popup window relative to its parent
+- 17:19:31.379 DEBUG: OnLoadingStateChange: loading=1, url=
+- 17:19:31.319 DEBUG: OnContextCreated()
+- 17:19:31.508 INFO: GET 200 /index.php
+- 17:19:31.517 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50321/index.php
+- 17:19:32.392 DEBUG: OnBeforeClose() hwnd=1179916
+- 17:19:32.392 DEBUG: RemoveBrowserWindow(): hwnd = 1179916
+- 17:19:32.208 DEBUG: OnBrowserDestroyed()
+- 17:19:33.186 DEBUG: ClientHandler::OnBeforePopup()
+- 17:19:33.186 DEBUG: Window max width/height = 1278/742
+- 17:19:33.001 DEBUG: OnBrowserCreated()
+- 17:19:33.198 DEBUG: ClientHandler::OnAfterCreated()
+- 17:19:33.198 DEBUG: GetBrowserWindow(): not found, hwnd = 1245452
+- 17:19:33.012 DEBUG: OnContextCreated()
+- 17:19:33.199 DEBUG: BrowserWindow::BrowserWindow() created for Popup
+- 17:19:33.199 DEBUG: StoreBrowserWindow(): hwnd = 1245452
+- 17:19:33.203 DEBUG: Centering popup window relative to its parent
+- 17:19:33.216 DEBUG: OnLoadingStateChange: loading=1, url=
+- 17:19:33.335 INFO: GET 200 /index.php
+- 17:19:33.338 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50321/index.php
+- 17:19:36.486 DEBUG: OnBeforeClose() hwnd=1245452
+- 17:19:36.487 DEBUG: RemoveBrowserWindow(): hwnd = 1245452
+- 17:19:36.314 DEBUG: OnBrowserDestroyed()
+- 17:21:19.118 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50321/popup.php
+- 17:21:19.044 DEBUG: OnContextCreated()
+- 17:21:19.232 INFO: GET 200 /popup.php
+- 17:21:19.237 INFO: GET 200 /style.css
+- 17:21:19.241 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50321/popup.php
+- 17:21:21.979 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50321/popup.php
+- 17:21:21.384 DEBUG: OnContextCreated()
+- 17:21:21.575 INFO: GET 200 /index.php
+- 17:21:21.607 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50321/index.php
+- 17:21:41.968 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50321/index.php
+- 17:21:41.129 INFO: GET 200 /index.php
+- 17:21:41.943 DEBUG: OnContextCreated()
+- 17:21:41.133 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50321/index.php
+- 17:22:13.357 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50321/index.php
+- 17:22:14.801 DEBUG: OnContextCreated()
+- 17:22:14.991 INFO: GET 200 /index.php
+- 17:22:14.994 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50321/index.php
+- 17:38:52.000 INFO: --------------------------------------------------------
+- 17:38:52.000 INFO: Started application
+- 17:38:52.000 INFO: Logging to: Z:\home\agc-hinal\Desktop\kartik_d\debug.log
+- 17:38:52.000 INFO: Log level = DEBUG4
+- 17:38:52.000 INFO: Starting Mongoose 3.9c web server
+- 17:38:52.001 INFO: WWW directory: Z:\home\agc-hinal\Desktop\kartik_d\www
+- 17:38:52.001 INFO: Index files: index.html,index.php
+- 17:38:52.001 INFO: CGI interpreter: Z:\home\agc-hinal\Desktop\kartik_d\php\php-cgi.exe
+- 17:38:52.001 INFO: CGI pattern: **.php$
+- 17:38:52.001 INFO: Hide files patterns: 
+- 17:38:52.001 INFO: CGI environment variables set: TMP=C:\users\agc-hinal\Temp\,TEMP=C:\users\agc-hinal\Temp\,TMPDIR=C:\users\agc-hinal\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 17:38:52.004 INFO: Web server url: http://127.0.0.1:43022/
+- 17:38:52.004 INFO: remote_debugging_port = 65224
+- 17:38:52.005 DEBUG: Command line string for the browser process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --remote-debugging-port=65224
+- 17:38:53.133 DEBUG: App::OnContextInitialized()
+- 17:38:53.133 DEBUG: Window max width/height = 1278/742
+- 17:38:53.133 DEBUG: GetBrowserWindow(): not found, hwnd = 1572912
+- 17:38:53.133 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 17:38:53.134 DEBUG: BrowserWindow::CreateBrowserControl()
+- 17:38:53.134 DEBUG: StoreBrowserWindow(): hwnd = 1572912
+- 17:38:53.142 DEBUG: ClientHandler::OnAfterCreated()
+- 17:38:53.142 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 17:38:53.165 DEBUG: OnLoadingStateChange: loading=1, url=
+- 17:38:55.001 DEBUG: Command line string for the renderer process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel="121.0.1156915946\1786076952" /prefetch:673131151
+- 17:38:57.170 DEBUG: OnBrowserCreated()
+- 17:38:57.915 INFO: GET 200 /
+- 17:38:57.919 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:43022/
+- 17:39:51.754 DEBUG: WM_DESTROY
+- 17:39:51.754 DEBUG: RemoveBrowserWindow(): hwnd = 1572912
+- 17:39:51.754 INFO: Stopping Mongoose web server
+- 17:39:51.754 DEBUG: Mongoose webserver stopped immediately
+- 17:39:51.757 DEBUG: OnBeforeClose() hwnd=1900952
+- 17:39:51.757 DEBUG: RemoveBrowserWindow(): hwnd = 1900952
+- 17:39:51.757 DEBUG: GetBrowserWindow(): not found, hwnd = 1900952
+- 17:39:51.757 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 17:39:51.757 DEBUG: Calling CefQuitMessageLoop()
+- 17:39:51.465 DEBUG: OnBrowserDestroyed()
+- 17:44:20.823 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50321/index.php
+- 17:44:20.942 DEBUG: OnContextCreated()
+- 17:44:20.130 INFO: GET 200 /index.php
+- 17:44:20.133 INFO: GET 200 /style.css
+- 17:44:20.170 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50321/index.php
+- 17:44:39.955 DEBUG: WM_DESTROY
+- 17:44:39.956 DEBUG: RemoveBrowserWindow(): hwnd = 852340
+- 17:44:39.956 INFO: Stopping Mongoose web server
+- 17:44:39.956 DEBUG: Mongoose webserver stopped immediately
+- 17:44:39.956 DEBUG: OnBeforeClose() hwnd=721254
+- 17:44:39.956 DEBUG: RemoveBrowserWindow(): hwnd = 721254
+- 17:44:39.956 DEBUG: GetBrowserWindow(): not found, hwnd = 721254
+- 17:44:39.956 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 17:44:39.956 DEBUG: Calling CefQuitMessageLoop()
+- 17:44:39.783 DEBUG: OnBrowserDestroyed()
+- 17:45:10.000 INFO: --------------------------------------------------------
+- 17:45:10.000 INFO: Started application
+- 17:45:10.000 INFO: Logging to: Z:\home\agc-hinal\Desktop\kartik_d\debug.log
+- 17:45:10.000 INFO: Log level = DEBUG4
+- 17:45:10.001 INFO: Starting Mongoose 3.9c web server
+- 17:45:10.001 INFO: WWW directory: Z:\home\agc-hinal\Desktop\kartik_d\www
+- 17:45:10.001 INFO: Index files: index.html,index.php
+- 17:45:10.001 INFO: CGI interpreter: Z:\home\agc-hinal\Desktop\kartik_d\php\php-cgi.exe
+- 17:45:10.001 INFO: CGI pattern: **.php$
+- 17:45:10.001 INFO: Hide files patterns: 
+- 17:45:10.001 INFO: CGI environment variables set: TMP=C:\users\agc-hinal\Temp\,TEMP=C:\users\agc-hinal\Temp\,TMPDIR=C:\users\agc-hinal\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 17:45:10.005 INFO: Web server url: http://127.0.0.1:52557/
+- 17:45:10.005 INFO: remote_debugging_port = 60228
+- 17:45:10.005 DEBUG: Command line string for the browser process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --remote-debugging-port=60228
+- 17:45:10.031 DEBUG: App::OnContextInitialized()
+- 17:45:10.031 DEBUG: Window max width/height = 1278/742
+- 17:45:10.031 DEBUG: GetBrowserWindow(): not found, hwnd = 721134
+- 17:45:10.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 17:45:10.032 DEBUG: BrowserWindow::CreateBrowserControl()
+- 17:45:10.032 DEBUG: StoreBrowserWindow(): hwnd = 721134
+- 17:45:10.059 DEBUG: ClientHandler::OnAfterCreated()
+- 17:45:10.059 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 17:45:10.069 DEBUG: OnLoadingStateChange: loading=1, url=
+- 17:45:11.001 DEBUG: Command line string for the renderer process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel="152.0.334625195\570680591" /prefetch:673131151
+- 17:45:11.353 DEBUG: OnBrowserCreated()
+- 17:45:11.995 INFO: GET 200 /style.css
+- 17:45:11.000 INFO: GET 200 /
+- 17:45:11.752 DEBUG: OnContextCreated()
+- 17:45:11.017 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52557/
+- 17:56:22.897 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52557/
+- 17:56:22.903 INFO: GET 200 /sqlite-database.db
+- 17:56:22.912 INFO: About to download a file: sqlite-database.db
+- 17:56:26.007 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:52557/sqlite-database.db
+- 17:56:26.008 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52557/
+- 17:56:26.008 INFO: Download was cancelled
+- 17:56:29.802 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52557/
+- 17:56:29.662 DEBUG: OnContextCreated()
+- 17:56:29.917 INFO: GET 200 /
+- 17:56:29.925 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52557/
+- 17:56:32.244 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52557/
+- 17:56:32.269 INFO: About to download a file: sqlite-database.db
+- 17:56:32.269 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:52557/sqlite-database.db
+- 17:56:42.998 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52557/
+- 17:56:42.030 INFO: Download completed, saved to: Z:\home\agc-hinal\Desktop\kartik_d\sqlite-database.db
+- 17:57:24.202 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52557/
+- 17:57:24.075 DEBUG: OnContextCreated()
+- 17:57:24.329 INFO: GET 200 /sqlite.php
+- 17:57:24.337 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52557/sqlite.php
+- 17:57:36.032 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52557/sqlite.php
+- 17:57:37.880 DEBUG: OnContextCreated()
+- 17:57:37.134 INFO: GET 200 /sqlite.php
+- 17:57:37.140 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52557/sqlite.php
+- 17:58:11.000 INFO: --------------------------------------------------------
+- 17:58:11.001 INFO: Started application
+- 17:58:11.001 INFO: Logging to: Z:\home\agc-hinal\Desktop\kartik_d\debug.log
+- 17:58:11.001 INFO: Log level = DEBUG4
+- 17:58:11.001 INFO: Starting Mongoose 3.9c web server
+- 17:58:11.001 INFO: WWW directory: Z:\home\agc-hinal\Desktop\kartik_d\www
+- 17:58:11.001 INFO: Index files: index.html,index.php
+- 17:58:11.001 INFO: CGI interpreter: Z:\home\agc-hinal\Desktop\kartik_d\php\php-cgi.exe
+- 17:58:11.001 INFO: CGI pattern: **.php$
+- 17:58:11.001 INFO: Hide files patterns: 
+- 17:58:11.001 INFO: CGI environment variables set: TMP=C:\users\agc-hinal\Temp\,TEMP=C:\users\agc-hinal\Temp\,TMPDIR=C:\users\agc-hinal\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 17:58:11.004 INFO: Web server url: http://127.0.0.1:53348/
+- 17:58:11.004 INFO: remote_debugging_port = 60466
+- 17:58:11.004 DEBUG: Command line string for the browser process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --remote-debugging-port=60466
+- 17:58:11.036 DEBUG: App::OnContextInitialized()
+- 17:58:11.036 DEBUG: Window max width/height = 1278/742
+- 17:58:11.036 DEBUG: GetBrowserWindow(): not found, hwnd = 4194780
+- 17:58:11.036 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 17:58:11.037 DEBUG: BrowserWindow::CreateBrowserControl()
+- 17:58:11.037 DEBUG: StoreBrowserWindow(): hwnd = 4194780
+- 17:58:11.045 DEBUG: ClientHandler::OnAfterCreated()
+- 17:58:11.045 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 17:58:11.061 DEBUG: OnLoadingStateChange: loading=1, url=
+- 17:58:11.001 DEBUG: Command line string for the renderer process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel="330.0.296478365\772287316" /prefetch:673131151
+- 17:58:11.351 DEBUG: OnBrowserCreated()
+- 17:58:12.673 INFO: GET 200 /style.css
+- 17:58:12.674 INFO: GET 200 /
+- 17:58:12.483 DEBUG: OnContextCreated()
+- 17:58:12.697 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:53348/
+- 17:58:14.585 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:53348/
+- 17:58:15.510 DEBUG: OnContextCreated()
+- 17:58:15.709 INFO: GET 200 /speech-recognition.php
+- 17:58:15.715 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:53348/speech-recognition.php
+- 17:58:17.548 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:53348/speech-recognition.php
+- 17:58:18.464 DEBUG: OnContextCreated()
+- 17:58:18.664 INFO: GET 200 /index.php
+- 17:58:18.672 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:53348/index.php
+- 17:58:22.673 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:53348/index.php
+- 17:58:22.676 INFO: GET 200 /sqlite-database.db
+- 17:58:22.741 INFO: About to download a file: sqlite-database.db
+- 17:58:22.745 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:53348/sqlite-database.db
+- 17:58:22.745 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:53348/index.php
+- 17:58:24.707 INFO: Download was cancelled
+- 17:58:26.365 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:53348/index.php
+- 17:58:26.260 DEBUG: OnContextCreated()
+- 17:58:26.465 INFO: GET 200 /sqlite.php
+- 17:58:26.471 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:53348/sqlite.php
+- 17:58:36.001 INFO: --------------------------------------------------------
+- 17:58:36.001 INFO: Started application
+- 17:58:36.001 INFO: Logging to: Z:\home\agc-hinal\Desktop\kartik_d\debug.log
+- 17:58:36.001 INFO: Log level = DEBUG4
+- 17:58:36.001 INFO: Starting Mongoose 3.9c web server
+- 17:58:36.001 INFO: WWW directory: Z:\home\agc-hinal\Desktop\kartik_d\www
+- 17:58:36.001 INFO: Index files: index.html,index.php
+- 17:58:36.001 INFO: CGI interpreter: Z:\home\agc-hinal\Desktop\kartik_d\php\php-cgi.exe
+- 17:58:36.001 INFO: CGI pattern: **.php$
+- 17:58:36.001 INFO: Hide files patterns: 
+- 17:58:36.002 INFO: CGI environment variables set: TMP=C:\users\agc-hinal\Temp\,TEMP=C:\users\agc-hinal\Temp\,TMPDIR=C:\users\agc-hinal\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 17:58:36.004 INFO: Web server url: http://127.0.0.1:56106/
+- 17:58:36.005 INFO: remote_debugging_port = 50826
+- 17:58:36.005 DEBUG: Command line string for the browser process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --remote-debugging-port=50826
+- 17:58:36.030 DEBUG: App::OnContextInitialized()
+- 17:58:36.030 DEBUG: Window max width/height = 1278/742
+- 17:58:36.031 DEBUG: GetBrowserWindow(): not found, hwnd = 1901016
+- 17:58:36.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 17:58:36.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 17:58:36.031 DEBUG: StoreBrowserWindow(): hwnd = 1901016
+- 17:58:36.041 DEBUG: ClientHandler::OnAfterCreated()
+- 17:58:36.041 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 17:58:36.048 DEBUG: OnLoadingStateChange: loading=1, url=
+- 17:58:36.001 DEBUG: Command line string for the renderer process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel="302.0.1517516639\153613902" /prefetch:673131151
+- 17:58:37.343 DEBUG: OnBrowserCreated()
+- 17:58:37.630 INFO: GET 200 /style.css
+- 17:58:37.635 INFO: GET 200 /
+- 17:58:37.480 DEBUG: OnContextCreated()
+- 17:58:37.652 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/
+- 17:58:41.587 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/
+- 17:58:41.539 DEBUG: OnContextCreated()
+- 17:58:41.706 INFO: GET 200 /sqlite.php
+- 17:58:41.710 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/sqlite.php
+- 18:00:00.770 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/sqlite.php
+- 18:00:00.729 DEBUG: OnContextCreated()
+- 18:00:00.889 INFO: GET 200 /sqlite.php
+- 18:00:00.893 INFO: GET 200 /style.css
+- 18:00:00.896 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/sqlite.php
+- 18:00:01.120 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/sqlite.php
+- 18:00:02.062 DEBUG: OnContextCreated()
+- 18:00:02.223 INFO: GET 200 /index.php
+- 18:00:02.248 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:00:37.570 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:00:37.522 DEBUG: OnContextCreated()
+- 18:00:37.684 INFO: GET 200 /style.css
+- 18:00:37.685 INFO: GET 200 /index.php
+- 18:00:37.691 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:00:46.313 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:00:46.274 DEBUG: OnContextCreated()
+- 18:00:46.434 INFO: GET 200 /sqlite.php
+- 18:00:46.439 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/sqlite.php
+- 18:07:22.553 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/sqlite.php
+- 18:07:23.748 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:56106/index.php
+- 18:07:23.748 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/sqlite.php
+- 18:07:23.749 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/sqlite.php
+- 18:07:24.300 INFO: GET 200 /index.php
+- 18:07:24.142 DEBUG: OnContextCreated()
+- 18:07:24.303 INFO: GET 200 /index.php
+- 18:07:24.308 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:07:42.386 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:07:42.348 DEBUG: OnContextCreated()
+- 18:07:42.509 INFO: GET 200 /index.php
+- 18:07:42.513 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:07:45.632 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:07:45.570 DEBUG: OnContextCreated()
+- 18:07:45.737 INFO: GET 200 /index.php
+- 18:07:45.739 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:08:01.586 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:08:01.527 DEBUG: OnContextCreated()
+- 18:08:01.689 INFO: GET 200 /index.php
+- 18:08:01.693 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:08:45.581 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:08:45.590 DEBUG: OnContextCreated()
+- 18:08:45.751 INFO: GET 200 /index.php
+- 18:08:45.754 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:12:45.554 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:12:45.724 DEBUG: OnContextCreated()
+- 18:12:45.886 INFO: GET 200 /index.php
+- 18:12:45.889 INFO: GET 200 /style.css
+- 18:12:45.893 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:13:20.276 INFO: GET 200 /style.css
+- 18:13:20.296 INFO: GET 200 /index.php
+- 18:13:20.876 INFO: GET 200 /favicon.ico
+- 18:13:25.224 INFO: GET 200 /index.php
+- 18:13:25.471 INFO: GET 200 /favicon.ico
+- 18:13:25.895 INFO: GET 200 /index.php
+- 18:13:25.133 INFO: GET 200 /favicon.ico
+- 18:13:26.146 INFO: GET 200 /index.php
+- 18:13:27.400 INFO: GET 200 /favicon.ico
+- 18:13:27.091 INFO: GET 200 /index.php
+- 18:13:28.318 INFO: GET 200 /favicon.ico
+- 18:13:29.015 INFO: GET 200 /index.php
+- 18:13:30.265 INFO: GET 200 /favicon.ico
+- 18:13:32.055 INFO: GET 200 /javascript-api.php
+- 18:13:33.302 INFO: GET 200 /favicon.ico
+- 18:13:39.409 INFO: GET 200 /favicon.ico
+- 18:16:39.442 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:16:39.654 DEBUG: OnContextCreated()
+- 18:16:39.815 INFO: GET 200 /index.php
+- 18:16:39.819 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:19:24.165 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:19:25.122 DEBUG: OnContextCreated()
+- 18:19:25.288 INFO: GET 200 /index.php
+- 18:19:25.290 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:20:08.117 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:20:09.063 DEBUG: OnContextCreated()
+- 18:20:09.223 INFO: GET 200 /index.php
+- 18:20:09.226 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:20:42.380 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:20:42.335 DEBUG: OnContextCreated()
+- 18:20:42.497 INFO: GET 200 /index.php
+- 18:20:42.501 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:21:22.986 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:21:22.937 DEBUG: OnContextCreated()
+- 18:21:22.101 INFO: GET 200 /index.php
+- 18:21:22.103 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:21:24.715 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:21:24.657 DEBUG: OnContextCreated()
+- 18:21:24.819 INFO: GET 200 /index.php
+- 18:21:24.823 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:21:27.434 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:21:27.392 DEBUG: OnContextCreated()
+- 18:21:27.552 INFO: GET 200 /index.php
+- 18:21:27.555 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:21:40.799 DEBUG: F5 pressed, reloading page
+- 18:21:40.801 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:21:40.766 DEBUG: OnContextCreated()
+- 18:21:40.925 INFO: GET 200 /index.php
+- 18:21:40.930 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:22:34.549 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:22:34.671 INFO: GET 200 /index.php
+- 18:22:34.523 DEBUG: OnContextCreated()
+- 18:22:34.685 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:22:36.370 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:22:36.312 DEBUG: OnContextCreated()
+- 18:22:36.472 INFO: GET 200 /index.php
+- 18:22:36.477 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:24:55.236 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:24:55.294 DEBUG: OnContextCreated()
+- 18:24:55.454 INFO: GET 200 /index.php
+- 18:24:55.457 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:26:57.538 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:26:57.511 DEBUG: OnContextCreated()
+- 18:26:57.671 INFO: GET 200 /index.php
+- 18:26:57.675 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:26:59.458 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:26:59.399 DEBUG: OnContextCreated()
+- 18:26:59.559 INFO: GET 200 /index.php
+- 18:26:59.564 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:27:28.698 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:27:28.636 DEBUG: OnContextCreated()
+- 18:27:28.799 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:30:45.084 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:30:46.292 INFO: GET 200 /index.php
+- 18:30:46.137 DEBUG: OnContextCreated()
+- 18:30:46.299 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:32:23.707 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:32:23.893 INFO: GET 200 /index.php
+- 18:32:23.738 DEBUG: OnContextCreated()
+- 18:32:23.899 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:33:06.171 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:33:07.112 DEBUG: OnContextCreated()
+- 18:33:07.273 INFO: GET 200 /index.php
+- 18:33:07.277 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:33:32.611 DEBUG: F5 pressed, reloading page
+- 18:33:32.611 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:33:32.565 DEBUG: OnContextCreated()
+- 18:33:32.725 INFO: GET 200 /index.php
+- 18:33:32.728 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:33:32.099 DEBUG: F5 pressed, reloading page
+- 18:33:32.100 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:33:32.038 DEBUG: OnContextCreated()
+- 18:33:32.201 INFO: GET 200 /index.php
+- 18:33:32.204 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:33:33.330 DEBUG: F5 pressed, reloading page
+- 18:33:33.331 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:33:33.297 DEBUG: OnContextCreated()
+- 18:33:33.460 INFO: GET 200 /index.php
+- 18:33:33.463 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:33:33.518 DEBUG: F5 pressed, reloading page
+- 18:33:33.518 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:33:33.456 DEBUG: OnContextCreated()
+- 18:33:33.618 INFO: GET 200 /index.php
+- 18:33:33.622 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:33:33.137 DEBUG: F5 pressed, reloading page
+- 18:33:33.138 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:33:34.075 DEBUG: OnContextCreated()
+- 18:33:34.238 INFO: GET 200 /index.php
+- 18:33:34.240 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:33:34.371 DEBUG: F5 pressed, reloading page
+- 18:33:34.371 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:33:34.306 DEBUG: OnContextCreated()
+- 18:33:34.468 INFO: GET 200 /index.php
+- 18:33:34.471 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:33:34.544 DEBUG: F5 pressed, reloading page
+- 18:33:34.544 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:33:34.655 INFO: GET 200 /index.php
+- 18:33:34.497 DEBUG: OnContextCreated()
+- 18:33:34.659 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:33:34.740 DEBUG: F5 pressed, reloading page
+- 18:33:34.741 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:33:34.676 DEBUG: OnContextCreated()
+- 18:33:34.839 INFO: GET 200 /index.php
+- 18:33:34.842 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:33:37.339 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:33:37.444 INFO: GET 200 /index.php
+- 18:33:37.286 DEBUG: OnContextCreated()
+- 18:33:37.448 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:39:38.777 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:39:39.917 DEBUG: OnContextCreated()
+- 18:39:39.083 INFO: GET 200 /index.php
+- 18:39:39.085 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:41:08.675 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:41:08.631 DEBUG: OnContextCreated()
+- 18:41:08.791 INFO: GET 200 /index.php
+- 18:41:08.795 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:41:11.401 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:41:11.342 DEBUG: OnContextCreated()
+- 18:41:11.504 INFO: GET 200 /index.php
+- 18:41:11.508 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:41:30.650 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:41:30.679 DEBUG: OnContextCreated()
+- 18:41:30.840 INFO: GET 200 /index.php
+- 18:41:30.843 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:42:35.713 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:42:35.676 DEBUG: OnContextCreated()
+- 18:42:35.839 INFO: GET 200 /index.php
+- 18:42:35.840 INFO: GET 200 /style.css
+- 18:42:35.844 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:42:37.644 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:42:37.619 DEBUG: OnContextCreated()
+- 18:42:37.780 INFO: GET 200 /forms.php
+- 18:42:37.792 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/forms.php
+- 18:43:42.251 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/forms.php
+- 18:43:42.208 DEBUG: OnContextCreated()
+- 18:43:42.371 INFO: GET 200 /index.php
+- 18:43:42.378 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:43:45.547 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:43:45.508 DEBUG: OnContextCreated()
+- 18:43:45.673 INFO: GET 200 /google.php
+- 18:43:45.685 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/google.php
+- 18:43:46.106 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/google.php
+- 18:43:47.424 DEBUG: OnLoadError, errorCode=-3, failedUrl=https://www.google.com/
+- 18:43:47.424 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/google.php
+- 18:43:50.850 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/google.php
+- 18:43:50.808 DEBUG: OnContextCreated()
+- 18:43:50.971 INFO: GET 200 /index.php
+- 18:43:50.980 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:43:53.837 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:43:53.819 DEBUG: OnContextCreated()
+- 18:43:53.979 INFO: GET 200 /error-404.php
+- 18:43:53.983 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/error-404.php
+- 18:43:55.101 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/error-404.php
+- 18:43:56.054 DEBUG: OnContextCreated()
+- 18:43:56.218 INFO: GET 200 /index.php
+- 18:43:56.224 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:43:59.035 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:43:59.001 DEBUG: OnContextCreated()
+- 18:43:59.162 INFO: GET 200 /loading-error.php
+- 18:43:59.165 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/loading-error.php
+- 18:44:02.314 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/loading-error.php
+- 18:44:02.267 DEBUG: OnContextCreated()
+- 18:44:02.428 INFO: GET 200 /index.php
+- 18:44:02.435 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:44:05.596 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:44:05.555 DEBUG: OnContextCreated()
+- 18:44:05.718 INFO: GET 200 /html5-video.php
+- 18:44:05.722 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/html5-video.php
+- 18:44:07.515 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/html5-video.php
+- 18:44:17.882 DEBUG: OnLoadError, errorCode=-3, failedUrl=https://www.youtube.com/watch?v=siOHh0uzcuY&html5=True
+- 18:44:17.883 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/html5-video.php
+- 18:44:17.883 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/html5-video.php
+- 18:44:17.845 DEBUG: OnContextCreated()
+- 18:44:17.019 INFO: GET 200 /index.php
+- 18:44:17.027 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:44:22.994 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:44:22.944 DEBUG: OnContextCreated()
+- 18:44:22.108 INFO: GET 200 /temp-dir.php
+- 18:44:22.113 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/temp-dir.php
+- 18:44:28.388 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/temp-dir.php
+- 18:44:28.339 DEBUG: OnContextCreated()
+- 18:44:28.503 INFO: GET 200 /index.php
+- 18:44:28.515 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:44:30.675 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:44:30.798 INFO: GET 200 /upload.php
+- 18:44:30.641 DEBUG: OnContextCreated()
+- 18:44:30.806 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/upload.php
+- 18:44:53.371 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/upload.php
+- 18:44:53.316 DEBUG: OnContextCreated()
+- 18:44:53.495 INFO: POST 200 /upload.php
+- 18:44:53.498 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/upload.php
+- 18:49:30.487 DEBUG: F5 pressed, reloading page
+- 18:49:31.028 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/upload.php
+- 18:49:31.968 DEBUG: OnContextCreated()
+- 18:49:31.129 INFO: GET 200 /index.php
+- 18:49:31.139 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:49:51.499 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:49:51.439 DEBUG: OnContextCreated()
+- 18:49:51.606 INFO: GET 200 /index.php
+- 18:49:51.610 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:50:03.725 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:56106/index.php
+- 18:50:03.828 INFO: POST 200 /index.php
+- 18:50:03.671 DEBUG: OnContextCreated()
+- 18:50:03.837 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:56106/index.php
+- 18:50:37.658 DEBUG: WM_DESTROY
+- 18:50:37.658 DEBUG: RemoveBrowserWindow(): hwnd = 1901016
+- 18:50:37.658 INFO: Stopping Mongoose web server
+- 18:50:37.658 DEBUG: Mongoose webserver stopped immediately
+- 18:50:37.667 DEBUG: OnBeforeClose() hwnd=2228636
+- 18:50:37.667 DEBUG: RemoveBrowserWindow(): hwnd = 2228636
+- 18:50:37.667 DEBUG: GetBrowserWindow(): not found, hwnd = 2228636
+- 18:50:37.667 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 18:50:37.667 DEBUG: Calling CefQuitMessageLoop()
+- 09:18:43.000 INFO: --------------------------------------------------------
+- 09:18:43.006 INFO: Started application
+- 09:18:43.006 INFO: Logging to: Z:\home\agc-hinal\Desktop\kartik_d\debug.log
+- 09:18:43.006 INFO: Log level = DEBUG4
+- 09:18:43.006 INFO: Starting Mongoose 3.9c web server
+- 09:18:43.007 INFO: WWW directory: Z:\home\agc-hinal\Desktop\kartik_d\www
+- 09:18:43.007 INFO: Index files: index.html,index.php
+- 09:18:43.007 INFO: CGI interpreter: Z:\home\agc-hinal\Desktop\kartik_d\php\php-cgi.exe
+- 09:18:43.007 INFO: CGI pattern: **.php$
+- 09:18:43.007 INFO: Hide files patterns: 
+- 09:18:43.007 INFO: CGI environment variables set: TMP=C:\users\agc-hinal\Temp\,TEMP=C:\users\agc-hinal\Temp\,TMPDIR=C:\users\agc-hinal\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 09:18:43.010 INFO: Web server url: http://127.0.0.1:54476/
+- 09:18:43.010 INFO: remote_debugging_port = 58909
+- 09:18:43.010 DEBUG: Command line string for the browser process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --remote-debugging-port=58909
+- 09:18:43.273 DEBUG: App::OnContextInitialized()
+- 09:18:43.273 DEBUG: Window max width/height = 1278/742
+- 09:18:43.274 DEBUG: GetBrowserWindow(): not found, hwnd = 65688
+- 09:18:43.274 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 09:18:43.274 DEBUG: BrowserWindow::CreateBrowserControl()
+- 09:18:43.274 DEBUG: StoreBrowserWindow(): hwnd = 65688
+- 09:18:43.322 DEBUG: ClientHandler::OnAfterCreated()
+- 09:18:43.322 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 09:18:43.328 DEBUG: OnLoadingStateChange: loading=1, url=
+- 09:18:43.001 DEBUG: Command line string for the renderer process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel="39.0.1403998435\533729338" /prefetch:673131151
+- 09:18:44.595 DEBUG: OnBrowserCreated()
+- 09:18:45.973 INFO: GET 200 /
+- 09:18:45.981 INFO: GET 200 /style.css
+- 09:18:45.990 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/
+- 09:18:50.274 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/
+- 09:18:50.366 INFO: POST 200 /index.php
+- 09:18:50.370 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:18:53.285 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:18:53.378 INFO: GET 200 /index.php
+- 09:18:53.381 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:18:54.956 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:18:54.064 INFO: GET 200 /index.php
+- 09:18:54.066 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:18:54.145 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:18:54.250 INFO: GET 200 /index.php
+- 09:18:54.253 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:18:54.353 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:18:54.476 INFO: GET 200 /index.php
+- 09:18:54.478 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:18:54.734 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:18:55.837 INFO: GET 200 /index.php
+- 09:18:55.838 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:18:55.921 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:18:55.029 INFO: GET 200 /index.php
+- 09:18:55.032 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:18:55.097 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:18:55.215 INFO: GET 200 /index.php
+- 09:18:55.217 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:21:07.340 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:21:07.459 INFO: GET 200 /style.css
+- 09:21:07.464 INFO: GET 200 /index.php
+- 09:21:07.468 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:21:08.474 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:21:08.585 INFO: GET 200 /register.php
+- 09:21:08.588 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/register.php
+- 09:21:56.316 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/register.php
+- 09:21:56.430 INFO: GET 200 /register.php
+- 09:21:56.430 INFO: GET 200 /style.css
+- 09:21:56.435 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/register.php
+- 09:22:42.819 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/register.php
+- 09:22:42.935 INFO: GET 200 /style.css
+- 09:22:42.938 INFO: GET 200 /register.php
+- 09:22:42.941 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/register.php
+- 09:29:04.219 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/register.php
+- 09:29:04.344 INFO: GET 200 /style.css
+- 09:29:04.348 INFO: GET 200 /register.php
+- 09:29:04.354 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/register.php
+- 09:29:12.952 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/register.php
+- 09:29:12.091 INFO: POST 200 /index.php
+- 09:29:12.094 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:29:30.514 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:29:30.631 INFO: GET 200 /register.php
+- 09:29:30.633 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/register.php
+- 09:29:36.523 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/register.php
+- 09:29:36.617 INFO: POST 200 /register.php
+- 09:29:36.620 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/register.php
+- 09:33:47.595 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/register.php
+- 09:33:47.719 INFO: GET 200 /register.php
+- 09:33:47.720 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/register.php
+- 09:33:55.827 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/register.php
+- 09:33:55.008 INFO: POST 200 /register.php
+- 09:33:55.010 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/register.php
+- 09:34:41.766 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/register.php
+- 09:34:42.963 INFO: POST 200 /register.php
+- 09:34:42.965 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/register.php
+- 09:34:44.812 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/register.php
+- 09:34:44.927 INFO: GET 200 /register.php
+- 09:34:44.930 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/register.php
+- 09:34:47.598 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/register.php
+- 09:34:47.717 INFO: POST 200 /register.php
+- 09:34:47.718 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/register.php
+- 09:37:12.182 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/register.php
+- 09:37:12.285 INFO: GET 200 /register.php
+- 09:37:12.286 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/register.php
+- 09:37:17.600 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/register.php
+- 09:37:17.797 INFO: POST 200 /register.php
+- 09:37:17.800 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/register.php
+- 09:37:27.746 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/register.php
+- 09:37:28.841 INFO: GET 200 /register.php
+- 09:37:28.844 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/register.php
+- 09:37:29.574 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/register.php
+- 09:37:29.668 INFO: GET 200 /index.php
+- 09:37:29.671 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:43:25.572 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:43:25.717 INFO: GET 200 /style.css
+- 09:43:25.720 INFO: GET 200 /index.php
+- 09:43:25.723 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:43:41.402 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:43:41.522 INFO: POST 200 /index.php
+- 09:43:41.526 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:43:59.406 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:43:59.517 INFO: GET 200 /index.php
+- 09:43:59.518 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:44:03.690 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:44:04.820 INFO: POST 200 /index.php
+- 09:44:04.823 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:47:00.202 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:47:01.323 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:54476/index.php
+- 09:47:01.323 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:47:01.323 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:47:01.746 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:54476/index.php
+- 09:47:01.747 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:47:01.747 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:47:02.906 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:54476/index.php
+- 09:47:02.906 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:47:02.907 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:47:02.266 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:54476/index.php
+- 09:47:02.266 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:47:02.267 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:47:02.458 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:54476/index.php
+- 09:47:02.458 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:47:02.458 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:47:02.643 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:54476/index.php
+- 09:47:02.645 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:47:02.646 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:47:03.818 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:54476/index.php
+- 09:47:03.818 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:47:03.819 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:47:03.994 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:54476/index.php
+- 09:47:03.994 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:47:03.995 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:47:03.162 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:54476/index.php
+- 09:47:03.162 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:47:03.163 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:47:03.330 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:54476/index.php
+- 09:47:03.331 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:47:03.331 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:47:03.490 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:54476/index.php
+- 09:47:03.490 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:47:03.491 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:47:04.506 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:54476/index.php
+- 09:47:04.506 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:47:04.507 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:47:05.858 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:54476/index.php
+- 09:47:05.858 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:47:05.858 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:47:05.026 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:54476/index.php
+- 09:47:05.027 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:47:05.027 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:47:05.194 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:54476/index.php
+- 09:47:05.194 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:47:05.194 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:47:10.871 INFO: GET 200 /index.php
+- 09:47:10.877 INFO: GET 200 /index.php
+- 09:47:10.878 INFO: GET 200 /index.php
+- 09:47:10.879 INFO: GET 200 /index.php
+- 09:47:10.880 INFO: GET 200 /index.php
+- 09:47:10.881 INFO: GET 200 /index.php
+- 09:47:10.882 INFO: GET 200 /index.php
+- 09:47:10.883 INFO: GET 200 /index.php
+- 09:47:10.884 INFO: GET 200 /index.php
+- 09:47:10.886 INFO: GET 200 /index.php
+- 09:47:10.887 INFO: GET 200 /index.php
+- 09:47:10.888 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:47:10.890 INFO: GET 200 /index.php
+- 09:47:10.890 INFO: GET 200 /index.php
+- 09:47:10.891 INFO: GET 200 /index.php
+- 09:47:10.894 INFO: GET 200 /index.php
+- 09:47:10.896 INFO: GET 200 /index.php
+- 09:47:19.682 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:47:20.849 INFO: POST 200 /index.php
+- 09:47:20.853 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:49:29.437 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:49:37.091 INFO: GET 200 /index.php
+- 09:49:37.092 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:50:07.032 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:50:08.974 INFO: POST 200 /index.php
+- 09:50:08.979 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:50:10.715 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:50:11.811 INFO: GET 200 /index.php
+- 09:50:11.813 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:50:19.145 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:50:19.253 INFO: POST 200 /index.php
+- 09:50:19.256 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:52:34.546 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:52:43.242 INFO: GET 200 /index.php
+- 09:52:43.244 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:52:49.095 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:52:49.191 INFO: POST 200 /index.php
+- 09:52:49.282 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:53:09.290 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:53:09.398 INFO: GET 200 /index.php
+- 09:53:09.400 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:59:09.021 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:59:09.783 INFO: GET 200 /index.php
+- 09:59:09.803 INFO: GET 200 /style.css
+- 09:59:09.807 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 09:59:20.398 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 09:59:20.537 INFO: POST 200 /index.php
+- 09:59:20.544 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 10:02:53.491 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 10:02:53.617 INFO: GET 200 /index.php
+- 10:02:53.636 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 10:03:01.699 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 10:03:01.804 INFO: GET 200 /style.css
+- 10:03:02.810 INFO: GET 200 /index.php
+- 10:03:02.814 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/index.php
+- 10:03:07.308 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54476/index.php
+- 10:03:07.420 INFO: POST 200 /index.php
+- 10:03:07.043 DEBUG: OnContextCreated()
+- 10:03:07.141 DEBUG: OnContextCreated()
+- 10:03:07.556 INFO: GET 200 /home.php
+- 10:03:07.561 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54476/home.php
+- 10:03:31.958 DEBUG: WM_DESTROY
+- 10:03:31.959 DEBUG: RemoveBrowserWindow(): hwnd = 65688
+- 10:03:31.959 INFO: Stopping Mongoose web server
+- 10:03:31.960 DEBUG: Mongoose webserver stopped immediately
+- 10:03:31.124 DEBUG: OnBeforeClose() hwnd=65694
+- 10:03:31.124 DEBUG: RemoveBrowserWindow(): hwnd = 65694
+- 10:03:31.124 DEBUG: GetBrowserWindow(): not found, hwnd = 65694
+- 10:03:31.124 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 10:03:31.124 DEBUG: Calling CefQuitMessageLoop()
+- 10:03:31.757 DEBUG: OnBrowserDestroyed()
+- 14:32:42.001 INFO: --------------------------------------------------------
+- 14:32:42.014 INFO: Started application
+- 14:32:42.014 INFO: Logging to: Z:\home\agc-hinal\Desktop\kartik_d\debug.log
+- 14:32:42.014 INFO: Log level = DEBUG4
+- 14:32:42.015 INFO: Starting Mongoose 3.9c web server
+- 14:32:42.016 INFO: WWW directory: Z:\home\agc-hinal\Desktop\kartik_d\www
+- 14:32:42.016 INFO: Index files: index.html,index.php
+- 14:32:42.016 INFO: CGI interpreter: Z:\home\agc-hinal\Desktop\kartik_d\php\php-cgi.exe
+- 14:32:42.016 INFO: CGI pattern: **.php$
+- 14:32:42.016 INFO: Hide files patterns: 
+- 14:32:42.016 INFO: CGI environment variables set: TMP=C:\users\agc-hinal\Temp\,TEMP=C:\users\agc-hinal\Temp\,TMPDIR=C:\users\agc-hinal\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 14:32:42.021 INFO: Web server url: http://127.0.0.1:37833/
+- 14:32:42.022 INFO: remote_debugging_port = 62798
+- 14:32:42.022 DEBUG: Command line string for the browser process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --remote-debugging-port=62798
+- 14:32:43.169 DEBUG: App::OnContextInitialized()
+- 14:32:43.169 DEBUG: Window max width/height = 1278/742
+- 14:32:43.170 DEBUG: GetBrowserWindow(): not found, hwnd = 65688
+- 14:32:43.170 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 14:32:43.170 DEBUG: BrowserWindow::CreateBrowserControl()
+- 14:32:43.170 DEBUG: StoreBrowserWindow(): hwnd = 65688
+- 14:32:43.196 DEBUG: ClientHandler::OnAfterCreated()
+- 14:32:43.196 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 14:32:43.204 DEBUG: OnLoadingStateChange: loading=1, url=
+- 14:32:43.001 DEBUG: Command line string for the renderer process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel="36.0.1525017147\241934537" /prefetch:673131151
+- 14:32:43.294 DEBUG: OnBrowserCreated()
+- 14:32:44.687 INFO: GET 200 /
+- 14:32:44.700 INFO: GET 200 /style.css
+- 14:32:44.712 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:37833/
+- 14:33:17.681 INFO: GET 200 /style.css
+- 14:33:17.686 INFO: GET 200 /
+- 14:33:18.319 INFO: GET 200 /favicon.ico
+- 14:33:20.322 INFO: GET 200 /
+- 14:33:20.336 INFO: GET 200 /style.css
+- 14:33:20.647 INFO: GET 200 /favicon.ico
+- 14:33:20.882 INFO: GET 200 /
+- 14:33:20.884 INFO: GET 200 /style.css
+- 14:33:20.130 INFO: GET 200 /favicon.ico
+- 14:33:21.287 INFO: GET 200 /style.css
+- 14:33:21.288 INFO: GET 200 /
+- 14:33:21.547 INFO: GET 200 /favicon.ico
+- 14:33:21.656 INFO: GET 200 /style.css
+- 14:33:21.660 INFO: GET 200 /
+- 14:33:21.942 INFO: GET 200 /favicon.ico
+- 14:33:21.956 INFO: GET 200 /
+- 14:33:21.959 INFO: GET 200 /style.css
+- 14:33:22.285 INFO: GET 200 /
+- 14:33:22.288 INFO: GET 200 /style.css
+- 14:33:22.326 INFO: GET 200 /favicon.ico
+- 14:33:22.545 INFO: GET 200 /favicon.ico
+- 14:33:22.784 INFO: GET 200 /
+- 14:33:22.786 INFO: GET 200 /style.css
+- 14:33:22.071 INFO: GET 200 /favicon.ico
+- 14:33:22.131 INFO: GET 200 /
+- 14:33:22.133 INFO: GET 200 /style.css
+- 14:33:23.415 INFO: GET 200 /favicon.ico
+- 14:33:23.447 INFO: GET 200 /style.css
+- 14:33:23.463 INFO: GET 200 /
+- 14:33:23.713 INFO: GET 200 /favicon.ico
+- 14:33:23.751 INFO: GET 200 /
+- 14:33:23.755 INFO: GET 200 /style.css
+- 14:33:23.068 INFO: GET 200 /favicon.ico
+- 14:33:23.068 INFO: GET 200 /
+- 14:33:23.071 INFO: GET 200 /style.css
+- 14:33:24.427 INFO: GET 200 /
+- 14:33:24.427 INFO: GET 200 /favicon.ico
+- 14:33:24.483 INFO: GET 200 /
+- 14:33:24.484 INFO: GET 200 /style.css
+- 14:33:24.758 INFO: GET 200 /favicon.ico
+- 14:33:24.758 INFO: GET 200 /
+- 14:33:24.765 INFO: GET 200 /style.css
+- 14:33:24.058 INFO: GET 200 /style.css
+- 14:33:24.078 INFO: GET 200 /
+- 14:33:24.078 INFO: GET 200 /favicon.ico
+- 14:33:25.343 INFO: GET 200 /
+- 14:33:25.343 INFO: GET 200 /favicon.ico
+- 14:33:25.455 INFO: GET 200 /style.css
+- 14:33:25.458 INFO: GET 200 /
+- 14:33:25.748 INFO: GET 200 /favicon.ico
+- 14:33:25.770 INFO: GET 200 /style.css
+- 14:33:25.771 INFO: GET 200 /
+- 14:33:25.999 INFO: GET 200 /favicon.ico
+- 14:33:27.225 INFO: GET 200 /style.css
+- 14:33:27.230 INFO: GET 200 /
+- 14:33:27.559 INFO: GET 200 /favicon.ico
+- 14:33:27.586 INFO: GET 200 /
+- 14:33:27.587 INFO: GET 200 /style.css
+- 14:33:27.873 INFO: GET 200 /
+- 14:33:27.874 INFO: GET 200 /favicon.ico
+- 14:33:27.948 INFO: GET 200 /style.css
+- 14:33:27.954 INFO: GET 200 /
+- 14:33:28.266 INFO: GET 200 /favicon.ico
+- 14:33:28.317 INFO: GET 200 /style.css
+- 14:33:28.321 INFO: GET 200 /
+- 14:33:28.591 INFO: GET 200 /favicon.ico
+- 14:33:28.633 INFO: GET 200 /
+- 14:33:28.634 INFO: GET 200 /style.css
+- 14:33:28.924 INFO: GET 200 /
+- 14:33:28.944 INFO: GET 200 /favicon.ico
+- 14:33:28.003 INFO: GET 200 /
+- 14:33:28.003 INFO: GET 200 /style.css
+- 14:33:29.252 INFO: GET 200 /favicon.ico
+- 14:34:35.635 INFO: GET 200 /register.php
+- 14:34:36.376 INFO: GET 200 /favicon.ico
+- 14:34:38.001 INFO: POST 200 /register.php
+- 14:34:39.662 INFO: GET 200 /favicon.ico
+- 14:34:45.340 INFO: GET 200 /register.php
+- 14:34:45.072 INFO: GET 200 /favicon.ico
+- 14:34:49.277 INFO: GET 200 /index.php
+- 14:34:49.803 INFO: GET 200 /favicon.ico
+- 14:34:54.505 INFO: POST 200 /index.php
+- 14:34:54.766 INFO: GET 200 /favicon.ico
+- 14:35:15.193 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:37833/
+- 14:35:15.299 INFO: POST 200 /index.php
+- 14:35:15.302 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:37833/index.php
+- 14:35:49.196 INFO: GET 200 /index.php
+- 14:35:49.484 INFO: GET 200 /favicon.ico
+- 14:35:55.943 INFO: POST 200 /index.php
+- 14:35:56.284 INFO: GET 200 /favicon.ico
+- 14:35:56.311 INFO: GET 200 /home.php
+- 14:35:56.548 INFO: GET 200 /favicon.ico
+- 14:46:12.404 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:37833/index.php
+- 14:46:12.533 INFO: POST 200 /index.php
+- 14:46:12.535 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:37833/index.php
+- 14:46:18.785 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:37833/index.php
+- 14:46:18.909 INFO: POST 200 /index.php
+- 14:46:18.592 DEBUG: OnContextCreated()
+- 14:46:18.716 DEBUG: OnContextCreated()
+- 14:46:18.036 INFO: GET 200 /home.php
+- 14:46:18.041 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:37833/home.php
+- 14:46:25.409 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:37833/home.php
+- 14:46:25.106 DEBUG: OnContextCreated()
+- 14:46:25.428 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:37833/index.php
+- 14:46:29.244 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:37833/index.php
+- 14:46:29.036 DEBUG: OnContextCreated()
+- 14:46:29.354 INFO: GET 200 /index.php
+- 14:46:29.360 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:37833/index.php
+- 14:46:30.595 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:37833/index.php
+- 14:46:30.403 DEBUG: OnContextCreated()
+- 14:46:30.723 INFO: POST 200 /index.php
+- 14:46:30.726 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:37833/index.php
+- 14:46:36.940 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:37833/index.php
+- 14:46:36.739 DEBUG: OnContextCreated()
+- 14:46:36.059 INFO: POST 200 /index.php
+- 14:46:36.062 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:37833/index.php
+- 14:46:36.064 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:37833/index.php
+- 14:46:37.855 DEBUG: OnContextCreated()
+- 14:46:37.177 INFO: GET 200 /home.php
+- 14:46:37.179 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:37833/home.php
+- 14:46:40.391 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:37833/home.php
+- 14:46:40.082 DEBUG: OnContextCreated()
+- 14:46:40.403 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:37833/index.php
+- 14:46:42.400 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:37833/index.php
+- 14:46:42.515 INFO: GET 200 /index.php
+- 14:46:42.198 DEBUG: OnContextCreated()
+- 14:46:42.521 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:37833/index.php
+- 14:46:47.912 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:37833/index.php
+- 14:46:47.037 INFO: POST 200 /index.php
+- 14:46:47.721 DEBUG: OnContextCreated()
+- 14:46:47.042 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:37833/index.php
+- 14:46:47.044 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:37833/index.php
+- 14:46:48.841 DEBUG: OnContextCreated()
+- 14:46:48.162 INFO: GET 200 /home.php
+- 14:46:48.164 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:37833/home.php
+- 14:46:50.545 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:37833/home.php
+- 14:46:50.664 INFO: GET 200 /index.php
+- 14:46:50.348 DEBUG: OnContextCreated()
+- 14:46:50.671 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:37833/index.php
+- 14:46:54.589 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:37833/index.php
+- 14:46:54.396 DEBUG: OnContextCreated()
+- 14:46:54.717 INFO: POST 200 /index.php
+- 14:46:54.721 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:37833/index.php
+- 14:46:57.192 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:37833/index.php
+- 14:46:57.998 DEBUG: OnContextCreated()
+- 14:46:57.317 INFO: GET 200 /register.php
+- 14:46:57.322 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:37833/register.php
+- 14:47:04.589 DEBUG: ClientHandler::OnAfterCreated()
+- 14:47:04.589 DEBUG: GetBrowserWindow(): not found, hwnd = 3670112
+- 14:47:04.589 DEBUG: BrowserWindow::BrowserWindow() created for Popup
+- 14:47:04.590 DEBUG: StoreBrowserWindow(): hwnd = 3670112
+- 14:47:04.592 DEBUG: Centering popup window relative to its parent
+- 14:47:04.618 DEBUG: OnLoadingStateChange: loading=1, url=
+- 14:47:04.001 DEBUG: Command line string for the renderer process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel="36.1.859206015\765479640" /prefetch:673131151
+- 14:47:04.371 DEBUG: OnBrowserCreated()
+- 14:47:04.383 DEBUG: OnContextCreated()
+- 14:47:05.261 DEBUG: OnLoadingStateChange: loading=0, url=chrome-devtools://devtools/inspector.html
+- 14:48:10.965 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:37833/register.php
+- 14:48:11.558 INFO: POST 200 /register.php
+- 14:48:11.243 DEBUG: OnContextCreated()
+- 14:48:11.571 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:37833/register.php
+- 14:48:19.626 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:37833/register.php
+- 14:48:19.428 DEBUG: OnContextCreated()
+- 14:48:19.747 INFO: GET 200 /register.php
+- 14:48:19.755 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:37833/register.php
+- 14:48:27.978 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:37833/register.php
+- 14:48:27.774 DEBUG: OnContextCreated()
+- 14:48:27.097 INFO: POST 200 /register.php
+- 14:48:27.105 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:37833/register.php
+- 14:48:31.920 DEBUG: OnBeforeClose() hwnd=3670112
+- 14:48:31.920 DEBUG: RemoveBrowserWindow(): hwnd = 3670112
+- 14:48:58.001 INFO: --------------------------------------------------------
+- 14:48:58.001 INFO: Started application
+- 14:48:58.001 INFO: Logging to: Z:\home\agc-hinal\Desktop\kartik_d\debug.log
+- 14:48:58.001 INFO: Log level = DEBUG4
+- 14:48:58.001 INFO: Starting Mongoose 3.9c web server
+- 14:48:58.002 INFO: WWW directory: Z:\home\agc-hinal\Desktop\kartik_d\www
+- 14:48:58.002 INFO: Index files: index.html,index.php
+- 14:48:58.002 INFO: CGI interpreter: Z:\home\agc-hinal\Desktop\kartik_d\php\php-cgi.exe
+- 14:48:58.002 INFO: CGI pattern: **.php$
+- 14:48:58.002 INFO: Hide files patterns: 
+- 14:48:58.002 INFO: CGI environment variables set: TMP=C:\users\agc-hinal\Temp\,TEMP=C:\users\agc-hinal\Temp\,TMPDIR=C:\users\agc-hinal\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 14:48:58.005 INFO: Web server url: http://127.0.0.1:54212/
+- 14:48:58.006 INFO: remote_debugging_port = 64452
+- 14:48:58.006 DEBUG: Command line string for the browser process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --remote-debugging-port=64452
+- 14:48:58.043 DEBUG: App::OnContextInitialized()
+- 14:48:58.043 DEBUG: Window max width/height = 1278/742
+- 14:48:58.043 DEBUG: GetBrowserWindow(): not found, hwnd = 65660
+- 14:48:58.043 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 14:48:58.043 DEBUG: BrowserWindow::CreateBrowserControl()
+- 14:48:58.044 DEBUG: StoreBrowserWindow(): hwnd = 65660
+- 14:48:58.064 DEBUG: ClientHandler::OnAfterCreated()
+- 14:48:58.064 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 14:48:58.079 DEBUG: OnLoadingStateChange: loading=1, url=
+- 14:48:58.001 DEBUG: Command line string for the renderer process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel="36.0.314556105\1082674518" /prefetch:673131151
+- 14:48:58.343 DEBUG: OnBrowserCreated()
+- 14:48:58.696 INFO: GET 200 /
+- 14:48:58.701 INFO: GET 200 /style.css
+- 14:48:58.710 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/
+- 14:49:04.526 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/
+- 14:49:04.637 INFO: GET 200 /register.php
+- 14:49:04.641 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/register.php
+- 14:49:08.644 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/register.php
+- 14:49:08.747 INFO: POST 200 /register.php
+- 14:49:08.752 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/register.php
+- 14:50:10.964 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/register.php
+- 14:50:10.085 INFO: GET 200 /register.php
+- 14:50:10.086 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/register.php
+- 14:50:14.957 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/register.php
+- 14:50:15.131 INFO: POST 200 /register.php
+- 14:50:15.138 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/register.php
+- 14:50:18.437 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/register.php
+- 14:50:18.557 INFO: GET 200 /index.php
+- 14:50:18.562 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/index.php
+- 14:50:24.423 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/index.php
+- 14:50:24.530 INFO: POST 200 /index.php
+- 14:50:24.533 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/index.php
+- 14:50:30.815 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/index.php
+- 14:50:30.931 INFO: POST 200 /index.php
+- 14:50:30.718 DEBUG: OnContextCreated()
+- 14:50:31.834 DEBUG: OnContextCreated()
+- 14:50:31.056 INFO: GET 200 /home.php
+- 14:50:31.061 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/home.php
+- 15:20:13.439 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/home.php
+- 15:20:13.412 DEBUG: OnContextCreated()
+- 15:20:13.638 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/index.php
+- 15:29:48.085 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/index.php
+- 15:29:51.465 DEBUG: OnContextCreated()
+- 15:29:51.800 INFO: GET 200 /index.php
+- 15:29:51.802 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/index.php
+- 15:30:22.472 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/index.php
+- 15:30:22.457 DEBUG: OnContextCreated()
+- 15:30:22.687 INFO: POST 200 /index.php
+- 15:30:22.590 DEBUG: OnContextCreated()
+- 15:30:22.812 INFO: GET 200 /home.php
+- 15:30:22.815 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/home.php
+- 15:30:25.879 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/home.php
+- 15:30:26.757 DEBUG: OnContextCreated()
+- 15:30:26.979 INFO: GET 200 /index.php
+- 15:30:26.985 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/index.php
+- 15:30:33.240 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/index.php
+- 15:30:33.118 DEBUG: OnContextCreated()
+- 15:30:33.344 INFO: POST 200 /index.php
+- 15:30:33.233 DEBUG: OnContextCreated()
+- 15:30:33.461 INFO: GET 200 /home.php
+- 15:30:33.462 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/home.php
+- 15:30:36.966 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/home.php
+- 15:30:36.879 DEBUG: OnContextCreated()
+- 15:30:36.100 INFO: GET 200 /index.php
+- 15:30:36.105 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/index.php
+- 15:30:38.414 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/index.php
+- 15:30:38.305 DEBUG: OnContextCreated()
+- 15:30:38.525 INFO: POST 200 /index.php
+- 15:30:38.529 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/index.php
+- 15:30:42.110 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/index.php
+- 15:30:42.225 INFO: GET 200 /index.php
+- 15:30:42.007 DEBUG: OnContextCreated()
+- 15:30:42.233 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/index.php
+- 15:51:02.784 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/index.php
+- 15:51:02.687 DEBUG: OnContextCreated()
+- 15:51:02.910 INFO: POST 200 /index.php
+- 15:51:03.806 DEBUG: OnContextCreated()
+- 15:51:03.030 INFO: GET 200 /home.php
+- 15:51:03.033 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/home.php
+- 15:51:08.527 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/home.php
+- 15:51:08.418 DEBUG: OnContextCreated()
+- 15:51:08.638 INFO: GET 200 /index.php
+- 15:51:08.644 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/index.php
+- 16:06:27.336 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/index.php
+- 16:06:27.633 INFO: GET 200 /index.php
+- 16:06:27.414 DEBUG: OnContextCreated()
+- 16:06:27.637 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/index.php
+- 16:06:29.975 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/index.php
+- 16:06:29.868 DEBUG: OnContextCreated()
+- 16:06:29.092 INFO: GET 200 /index.php
+- 16:06:29.097 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/index.php
+- 16:06:30.041 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/index.php
+- 16:06:30.158 INFO: GET 200 /index.php
+- 16:06:30.940 DEBUG: OnContextCreated()
+- 16:06:30.165 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/index.php
+- 16:06:54.326 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/index.php
+- 16:06:54.217 DEBUG: OnContextCreated()
+- 16:06:54.443 INFO: POST 200 /index.php
+- 16:06:54.445 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/index.php
+- 16:07:02.035 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/index.php
+- 16:07:02.151 INFO: POST 200 /index.php
+- 16:07:02.157 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/index.php
+- 16:07:06.468 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/index.php
+- 16:07:06.369 DEBUG: OnContextCreated()
+- 16:07:06.600 INFO: GET 200 /index.php
+- 16:07:06.602 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/index.php
+- 16:07:11.282 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/index.php
+- 16:07:11.174 DEBUG: OnContextCreated()
+- 16:07:11.395 INFO: POST 200 /index.php
+- 16:07:11.402 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/index.php
+- 16:07:34.198 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/index.php
+- 16:07:34.087 DEBUG: OnContextCreated()
+- 16:07:34.309 INFO: POST 200 /index.php
+- 16:07:34.208 DEBUG: OnContextCreated()
+- 16:07:34.438 INFO: GET 200 /home.php
+- 16:07:34.440 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/home.php
+- 16:07:36.880 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/home.php
+- 16:07:36.674 DEBUG: OnContextCreated()
+- 16:07:36.899 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/index.php
+- 16:08:05.999 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/index.php
+- 16:08:05.904 DEBUG: OnContextCreated()
+- 16:08:05.130 INFO: POST 200 /index.php
+- 16:08:05.030 DEBUG: OnContextCreated()
+- 16:08:05.251 INFO: GET 200 /home.php
+- 16:08:05.254 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/home.php
+- 16:08:07.823 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/home.php
+- 16:08:07.608 DEBUG: OnContextCreated()
+- 16:08:07.832 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/index.php
+- 16:08:09.776 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/index.php
+- 16:08:09.653 DEBUG: OnContextCreated()
+- 16:08:09.879 INFO: GET 200 /index.php
+- 16:08:09.882 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/index.php
+- 16:08:10.920 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/index.php
+- 16:08:11.801 DEBUG: OnContextCreated()
+- 16:08:11.024 INFO: GET 200 /index.php
+- 16:08:11.030 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/index.php
+- 16:08:11.216 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/index.php
+- 16:08:11.110 DEBUG: OnContextCreated()
+- 16:08:11.333 INFO: GET 200 /index.php
+- 16:08:11.336 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/index.php
+- 16:08:11.431 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/index.php
+- 16:08:11.328 DEBUG: OnContextCreated()
+- 16:08:11.555 INFO: GET 200 /index.php
+- 16:08:11.560 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/index.php
+- 16:10:50.496 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/index.php
+- 16:10:50.391 DEBUG: OnContextCreated()
+- 16:10:50.613 INFO: GET 200 /index.php
+- 16:10:50.618 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/index.php
+- 16:10:52.096 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/index.php
+- 16:10:52.969 DEBUG: OnContextCreated()
+- 16:10:52.191 INFO: GET 200 /index.php
+- 16:10:52.197 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/index.php
+- 16:37:19.953 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:54212/index.php
+- 16:37:22.578 DEBUG: OnContextCreated()
+- 16:37:22.815 INFO: GET 200 /index.php
+- 16:37:22.816 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:54212/index.php
+- 16:48:38.001 INFO: --------------------------------------------------------
+- 16:48:38.009 INFO: Started application
+- 16:48:38.009 INFO: Started application
+- 16:48:38.009 INFO: Logging to: Z:\home\agc-hinal\Desktop\kartik_d\debug.log
+- 16:48:38.009 INFO: Log level = DEBUG4
+- 16:48:38.009 INFO: Log level = DEBUG4
+- 16:48:38.009 INFO: Starting Mongoose 3.9c web server
+- 16:48:38.009 INFO: Starting Mongoose 3.9c web server
+- 16:48:38.009 INFO: WWW directory: Z:\home\agc-hinal\Desktop\kartik_d\www
+- 16:48:38.009 INFO: WWW directory: Z:\home\agc-hinal\Desktop\kartik_d\www
+- 16:48:38.009 INFO: Index files: index.html,index.php
+- 16:48:38.010 INFO: Index files: index.html,index.php
+- 16:48:38.010 INFO: CGI interpreter: Z:\home\agc-hinal\Desktop\kartik_d\php\php-cgi.exe
+- 16:48:38.010 INFO: CGI pattern: **.php$
+- 16:48:38.010 INFO: CGI interpreter: Z:\home\agc-hinal\Desktop\kartik_d\php\php-cgi.exe
+- 16:48:38.010 INFO: CGI pattern: **.php$
+- 16:48:38.010 INFO: Hide files patterns: 
+- 16:48:38.010 INFO: CGI environment variables set: TMP=C:\users\agc-hinal\Temp\,TEMP=C:\users\agc-hinal\Temp\,TMPDIR=C:\users\agc-hinal\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 16:48:38.010 INFO: CGI environment variables set: TMP=C:\users\agc-hinal\Temp\,TEMP=C:\users\agc-hinal\Temp\,TMPDIR=C:\users\agc-hinal\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 16:48:38.013 INFO: Web server url: http://127.0.0.1:37578/
+- 16:48:38.014 INFO: remote_debugging_port = 65124
+- 16:48:38.014 DEBUG: Command line string for the browser process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --remote-debugging-port=65124
+- 16:48:38.015 INFO: Web server url: http://127.0.0.1:47393/
+- 16:48:38.015 INFO: remote_debugging_port = 59630
+- 16:48:38.015 DEBUG: Command line string for the browser process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --remote-debugging-port=59630
+- 16:48:39.764 DEBUG: App::OnContextInitialized()
+- 16:48:39.764 DEBUG: Window max width/height = 1278/742
+- 16:48:39.765 DEBUG: App::OnContextInitialized()
+- 16:48:39.765 DEBUG: GetBrowserWindow(): not found, hwnd = 65678
+- 16:48:39.765 DEBUG: Window max width/height = 1278/742
+- 16:48:39.765 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 16:48:39.766 DEBUG: GetBrowserWindow(): not found, hwnd = 65688
+- 16:48:39.766 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 16:48:39.766 DEBUG: BrowserWindow::CreateBrowserControl()
+- 16:48:39.766 DEBUG: StoreBrowserWindow(): hwnd = 65678
+- 16:48:39.766 DEBUG: BrowserWindow::CreateBrowserControl()
+- 16:48:39.766 DEBUG: StoreBrowserWindow(): hwnd = 65688
+- 16:48:39.946 DEBUG: ClientHandler::OnAfterCreated()
+- 16:48:39.946 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 16:48:39.946 DEBUG: ClientHandler::OnAfterCreated()
+- 16:48:39.946 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 16:48:39.954 DEBUG: OnLoadingStateChange: loading=1, url=
+- 16:48:39.956 DEBUG: OnLoadingStateChange: loading=1, url=
+- 16:48:39.001 DEBUG: Command line string for the renderer process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel="42.0.918315365\1945922748" /prefetch:673131151
+- 16:48:39.001 DEBUG: Command line string for the renderer process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel="38.0.1729927073\276162273" /prefetch:673131151
+- 16:48:41.215 DEBUG: OnBrowserCreated()
+- 16:48:41.196 DEBUG: OnBrowserCreated()
+- 16:48:42.372 INFO: GET 200 /
+- 16:48:42.372 INFO: GET 200 /
+- 16:48:42.384 INFO: GET 200 /style.css
+- 16:48:42.384 INFO: GET 200 /style.css
+- 16:48:42.393 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:37578/
+- 16:48:42.394 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:47393/
+- 16:49:19.154 DEBUG: WM_DESTROY
+- 16:49:19.154 DEBUG: RemoveBrowserWindow(): hwnd = 65678
+- 16:49:19.154 INFO: Stopping Mongoose web server
+- 16:49:19.154 DEBUG: Mongoose webserver stopped immediately
+- 16:49:19.155 DEBUG: OnBeforeClose() hwnd=65698
+- 16:49:19.155 DEBUG: RemoveBrowserWindow(): hwnd = 65698
+- 16:49:19.155 DEBUG: GetBrowserWindow(): not found, hwnd = 65698
+- 16:49:19.155 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 16:49:19.155 DEBUG: Calling CefQuitMessageLoop()
+- 16:49:19.045 DEBUG: OnBrowserDestroyed()
+- 16:49:19.170 INFO: Ended application
+- 16:49:19.170 INFO: --------------------------------------------------------
+- 10:10:06.001 INFO: --------------------------------------------------------
+- 10:10:06.006 INFO: Started application
+- 10:10:06.006 INFO: Logging to: Z:\home\agc-hinal\Desktop\kartik_d\debug.log
+- 10:10:06.005 INFO: --------------------------------------------------------
+- 10:10:06.006 INFO: Log level = DEBUG4
+- 10:10:06.005 INFO: Started application
+- 10:10:06.005 INFO: Logging to: Z:\home\agc-hinal\Desktop\kartik_d\debug.log
+- 10:10:06.005 INFO: Log level = DEBUG4
+- 10:10:06.006 INFO: Starting Mongoose 3.9c web server
+- 10:10:06.007 INFO: Starting Mongoose 3.9c web server
+- 10:10:06.006 INFO: WWW directory: Z:\home\agc-hinal\Desktop\kartik_d\www
+- 10:10:06.006 INFO: Index files: index.html,index.php
+- 10:10:06.007 INFO: WWW directory: Z:\home\agc-hinal\Desktop\kartik_d\www
+- 10:10:06.007 INFO: Index files: index.html,index.php
+- 10:10:06.006 INFO: CGI interpreter: Z:\home\agc-hinal\Desktop\kartik_d\php\php-cgi.exe
+- 10:10:06.006 INFO: CGI pattern: **.php$
+- 10:10:06.006 INFO: Hide files patterns: 
+- 10:10:06.007 INFO: CGI interpreter: Z:\home\agc-hinal\Desktop\kartik_d\php\php-cgi.exe
+- 10:10:06.007 INFO: CGI pattern: **.php$
+- 10:10:06.007 INFO: Hide files patterns: 
+- 10:10:06.006 INFO: CGI environment variables set: TMP=C:\users\agc-hinal\Temp\,TEMP=C:\users\agc-hinal\Temp\,TMPDIR=C:\users\agc-hinal\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 10:10:06.008 INFO: CGI environment variables set: TMP=C:\users\agc-hinal\Temp\,TEMP=C:\users\agc-hinal\Temp\,TMPDIR=C:\users\agc-hinal\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 10:10:06.011 INFO: Web server url: http://127.0.0.1:38652/
+- 10:10:06.011 INFO: Web server url: http://127.0.0.1:46691/
+- 10:10:06.012 INFO: remote_debugging_port = 61685
+- 10:10:06.011 INFO: remote_debugging_port = 61685
+- 10:10:06.012 DEBUG: Command line string for the browser process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --remote-debugging-port=61685
+- 10:10:06.011 DEBUG: Command line string for the browser process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --remote-debugging-port=61685
+- 10:10:06.250 DEBUG: App::OnContextInitialized()
+- 10:10:06.250 DEBUG: Window max width/height = 1278/742
+- 10:10:06.251 DEBUG: GetBrowserWindow(): not found, hwnd = 65678
+- 10:10:06.251 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 10:10:06.251 DEBUG: BrowserWindow::CreateBrowserControl()
+- 10:10:06.252 DEBUG: App::OnContextInitialized()
+- 10:10:06.251 DEBUG: StoreBrowserWindow(): hwnd = 65678
+- 10:10:06.253 DEBUG: Window max width/height = 1278/742
+- 10:10:06.253 DEBUG: GetBrowserWindow(): not found, hwnd = 65688
+- 10:10:06.253 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 10:10:06.254 DEBUG: BrowserWindow::CreateBrowserControl()
+- 10:10:06.254 DEBUG: StoreBrowserWindow(): hwnd = 65688
+- 10:10:06.287 DEBUG: ClientHandler::OnAfterCreated()
+- 10:10:06.287 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 10:10:06.290 DEBUG: ClientHandler::OnAfterCreated()
+- 10:10:06.290 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 10:10:06.297 DEBUG: OnLoadingStateChange: loading=1, url=
+- 10:10:06.309 DEBUG: OnLoadingStateChange: loading=1, url=
+- 10:10:06.002 DEBUG: Command line string for the renderer process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel="39.0.1071232143\1887242127" /prefetch:673131151
+- 10:10:06.001 DEBUG: Command line string for the renderer process: "Z:\home\agc-hinal\Desktop\kartik_d\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="Z:\home\agc-hinal\Desktop\kartik_d\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel="43.0.1550220795\1455176695" /prefetch:673131151
+- 10:10:07.690 DEBUG: OnBrowserCreated()
+- 10:10:07.665 DEBUG: OnBrowserCreated()
+- 10:10:08.237 INFO: GET 200 /style.css
+- 10:10:08.242 INFO: GET 200 /
+- 10:10:08.245 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:38652/
+- 10:10:10.316 INFO: GET 200 /style.css
+- 10:10:10.319 INFO: GET 200 /
+- 10:10:10.328 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:46691/
+- 10:10:21.747 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:38652/
+- 10:10:21.850 INFO: POST 200 /index.php
+- 10:10:21.411 DEBUG: OnContextCreated()
+- 10:10:21.532 DEBUG: OnContextCreated()
+- 10:10:21.976 INFO: GET 200 /home.php
+- 10:10:21.979 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:38652/home.php
+- 10:10:29.239 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:38652/home.php
+- 10:10:29.809 DEBUG: OnContextCreated()
+- 10:10:29.253 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:38652/
+- 10:10:31.806 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:38652/
+- 10:10:31.919 INFO: GET 200 /index.php
+- 10:10:31.480 DEBUG: OnContextCreated()
+- 10:10:31.924 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:38652/index.php
+- 10:10:31.232 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:38652/index.php
+- 10:10:31.913 DEBUG: OnContextCreated()
+- 10:10:31.355 INFO: GET 200 /index.php
+- 10:10:31.360 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:38652/index.php
+- 10:10:32.616 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:38652/index.php
+- 10:10:32.284 DEBUG: OnContextCreated()
+- 10:10:32.727 INFO: GET 200 /index.php
+- 10:10:32.731 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:38652/index.php
+- 10:10:32.081 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:38652/index.php
+- 10:10:32.757 DEBUG: OnContextCreated()
+- 10:10:32.199 INFO: GET 200 /index.php
+- 10:10:32.203 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:38652/index.php
+- 10:12:42.159 DEBUG: WM_DESTROY
+- 10:12:42.160 DEBUG: RemoveBrowserWindow(): hwnd = 65678
+- 10:12:42.160 INFO: Stopping Mongoose web server
+- 10:12:42.160 DEBUG: Mongoose webserver stopped immediately
+- 10:12:42.164 DEBUG: OnBeforeClose() hwnd=65694
+- 10:12:42.164 DEBUG: RemoveBrowserWindow(): hwnd = 65694
+- 10:12:42.164 DEBUG: GetBrowserWindow(): not found, hwnd = 65694
+- 10:12:42.164 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 10:12:42.164 DEBUG: Calling CefQuitMessageLoop()
+- 10:12:42.187 INFO: Ended application
+- 10:12:42.187 INFO: --------------------------------------------------------
